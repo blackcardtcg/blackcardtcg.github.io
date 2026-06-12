@@ -7,12 +7,12 @@
 <meta name="description" content="เช็กสินค้า ราคา และจำนวนคงเหลือในตู้ BLACKCARD ทุกสาขา อัปเดตอัตโนมัติ">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+Thai:wght@400;500;600;700&family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700&family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#000; --bg2:#0b0b0b; --panel:#101010; --panel2:#161616;
-  --line:#222; --line2:#2e2e2e;
-  --txt:#fff; --mut:#8c8c8c; --mut2:#5c5c5c;
+  --bg:#000; --panel:#0e0e0e; --panel2:#151515;
+  --line:#1f1f1f; --line2:#2c2c2c;
+  --txt:#fff; --mut:#8c8c8c; --mut2:#5a5a5a;
   --grn:#46d17a; --amb:#e8b341; --red:#ef5a5a;
   --head:'Oswald',sans-serif; --body:'Noto Sans Thai','Oswald',sans-serif;
 }
@@ -20,96 +20,90 @@
 html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--txt);font-family:var(--body);-webkit-font-smoothing:antialiased;min-height:100vh;overflow-x:hidden}
 
-/* announcement bar */
 .topbar{background:#fff;color:#000;text-align:center;font-family:var(--head);font-weight:600;font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;padding:7px 14px}
 
-/* header */
 header{position:sticky;top:0;z-index:50;background:rgba(0,0,0,.82);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
 .hwrap{max-width:1240px;margin:0 auto;padding:14px 22px;display:flex;align-items:center;gap:16px}
 .brand{display:flex;align-items:center;gap:13px;text-decoration:none;color:#fff}
 .brand svg{display:block}
 .brand .bt{font-family:var(--head);font-weight:700;letter-spacing:.26em;font-size:1.05rem;line-height:1}
-.brand .bs{font-family:var(--head);font-weight:300;letter-spacing:.34em;font-size:.55rem;color:var(--mut);margin-top:4px}
+.brand .bs{font-family:var(--head);font-weight:300;letter-spacing:.34em;font-size:.55rem;color:var(--mut);margin-top:4px;display:block}
 .upd{margin-left:auto;font-family:var(--head);font-weight:300;font-size:.68rem;letter-spacing:.12em;color:var(--mut);text-transform:uppercase;text-align:right;line-height:1.5}
 .upd b{color:var(--grn);font-weight:500}
 .dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--grn);margin-right:5px;animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
 
-/* hero */
-.hero{max-width:1240px;margin:0 auto;padding:54px 22px 30px;text-align:center;position:relative}
+.hero{max-width:1240px;margin:0 auto;padding:52px 22px 28px;text-align:center}
 .hero .eyebrow{font-family:var(--head);font-weight:500;letter-spacing:.4em;font-size:.7rem;color:var(--mut);text-transform:uppercase;margin-bottom:18px}
-.hero h1{font-family:var(--head);font-weight:700;font-size:clamp(2.4rem,7vw,5rem);line-height:.96;letter-spacing:.02em;text-transform:uppercase}
-.hero h1 .o{-webkit-text-stroke:1.4px #fff;color:transparent}
-.hero p{color:var(--mut);font-size:.95rem;margin-top:18px;max-width:560px;margin-left:auto;margin-right:auto;line-height:1.7}
-.stats{display:flex;justify-content:center;gap:0;margin-top:34px;flex-wrap:wrap;border:1px solid var(--line);border-radius:14px;overflow:hidden;max-width:620px;margin-left:auto;margin-right:auto}
-.stat{flex:1;min-width:120px;padding:18px 14px;border-right:1px solid var(--line)}
+.hero h1{font-family:var(--head);font-weight:700;font-size:clamp(2.6rem,7.5vw,5.4rem);line-height:.98;letter-spacing:.04em;text-transform:uppercase}
+.hero h1 .o{-webkit-text-stroke:1.6px #fff;color:transparent}
+.hero p{color:var(--mut);font-size:.92rem;margin-top:16px;max-width:540px;margin-left:auto;margin-right:auto;line-height:1.7}
+.stats{display:flex;justify-content:center;margin-top:30px;border:1px solid var(--line);max-width:560px;margin-left:auto;margin-right:auto}
+.stat{flex:1;padding:16px 12px;border-right:1px solid var(--line)}
 .stat:last-child{border-right:none}
-.stat .n{font-family:var(--head);font-weight:700;font-size:1.8rem;line-height:1}
-.stat .l{font-family:var(--head);font-weight:300;letter-spacing:.18em;font-size:.6rem;color:var(--mut);text-transform:uppercase;margin-top:6px}
+.stat .n{font-family:var(--head);font-weight:700;font-size:1.7rem;line-height:1}
+.stat .l{font-family:var(--head);font-weight:300;letter-spacing:.18em;font-size:.58rem;color:var(--mut);text-transform:uppercase;margin-top:6px}
 
-/* machine tabs */
-.tabs{max-width:1240px;margin:0 auto;padding:30px 22px 0;display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
-.tab{border:1px solid var(--line2);background:transparent;color:var(--mut);border-radius:0;padding:13px 22px;cursor:pointer;font-family:var(--head);font-weight:500;letter-spacing:.1em;text-transform:uppercase;font-size:.78rem;transition:.18s;text-align:center;position:relative}
-.tab small{display:block;font-weight:300;font-size:.62rem;letter-spacing:.06em;color:var(--mut2);margin-top:4px}
+.tabs{max-width:1240px;margin:0 auto;padding:28px 22px 0;display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
+.tab{border:1px solid var(--line2);background:transparent;color:var(--mut);padding:12px 22px;cursor:pointer;font-family:var(--head);font-weight:500;letter-spacing:.1em;text-transform:uppercase;font-size:.78rem;transition:.18s;text-align:center}
+.tab small{display:block;font-weight:300;font-size:.6rem;letter-spacing:.08em;color:var(--mut2);margin-top:4px}
 .tab:hover{border-color:#666;color:#ddd}
 .tab.active{background:#fff;color:#000;border-color:#fff}
 .tab.active small{color:#555}
 
-/* controls */
-.controls{max-width:1240px;margin:0 auto;padding:26px 22px 10px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.controls{max-width:1240px;margin:0 auto;padding:24px 22px 8px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
 .search{flex:1;min-width:220px;position:relative}
 .search svg{position:absolute;left:15px;top:50%;transform:translateY(-50%);opacity:.4}
-.search input{width:100%;background:var(--panel);border:1px solid var(--line);color:#fff;border-radius:0;padding:13px 14px 13px 44px;font-size:.9rem;font-family:var(--body);transition:.15s}
+.search input{width:100%;background:var(--panel);border:1px solid var(--line);color:#fff;padding:13px 14px 13px 44px;font-size:.9rem;font-family:var(--body);transition:.15s}
 .search input:focus{outline:none;border-color:#555;background:var(--panel2)}
-.controls select{background:var(--panel);border:1px solid var(--line);color:#fff;border-radius:0;padding:13px 14px;font-size:.82rem;font-family:var(--head);letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
+.controls select{background:var(--panel);border:1px solid var(--line);color:#fff;padding:13px 14px;font-size:.8rem;font-family:var(--head);letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
 .controls select:focus{outline:none;border-color:#555}
-.count{font-family:var(--head);font-weight:300;letter-spacing:.12em;font-size:.72rem;color:var(--mut);text-transform:uppercase;width:100%;padding-top:4px}
+.count{font-family:var(--head);font-weight:300;letter-spacing:.12em;font-size:.7rem;color:var(--mut);text-transform:uppercase;width:100%;padding-top:4px}
 
-/* grid */
 main{max-width:1240px;margin:0 auto;padding:14px 22px 80px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));gap:18px}
-.card{background:var(--panel);border:1px solid var(--line);display:flex;flex-direction:column;transition:.22s;position:relative;overflow:hidden}
-.card:hover{border-color:#4a4a4a;transform:translateY(-3px)}
-.card:hover .imgbox img{transform:scale(1.05)}
-.imgbox{background:#fff;aspect-ratio:3/4;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}
-.imgbox img{width:100%;height:100%;object-fit:cover;transition:transform .35s ease}
-.noimg{color:#c5c5c5;font-family:var(--head);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase}
-.badge{position:absolute;top:10px;left:10px;background:rgba(0,0,0,.85);color:#fff;font-family:var(--head);font-weight:500;font-size:.6rem;letter-spacing:.14em;padding:4px 10px;text-transform:uppercase;backdrop-filter:blur(4px)}
-.card.sold .imgbox img{filter:grayscale(1) brightness(.62)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(225px,1fr));gap:16px}
+
+/* การ์ดสินค้า — คลีน เรียบ รูปเต็มไม่โดนครอป */
+.card{background:var(--panel);border:1px solid var(--line);display:flex;flex-direction:column;transition:.2s;position:relative}
+.card:hover{border-color:#484848;transform:translateY(-3px)}
+.imgbox{background:#fff;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;position:relative;padding:14px}
+.imgbox img{max-width:100%;max-height:100%;object-fit:contain}
+.noimg{color:#c5c5c5;font-family:var(--head);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase}
+.badge{position:absolute;top:0;left:0;background:#000;color:#fff;font-family:var(--head);font-weight:500;font-size:.58rem;letter-spacing:.14em;padding:5px 11px;text-transform:uppercase}
+.card.sold .imgbox img{filter:grayscale(1);opacity:.4}
 .soldtag{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
-.soldtag span{border:2px solid var(--red);color:var(--red);font-family:var(--head);font-weight:700;font-size:.92rem;letter-spacing:.18em;padding:7px 18px;transform:rotate(-9deg);background:rgba(0,0,0,.35)}
-.body{padding:14px 15px 16px;display:flex;flex-direction:column;gap:11px;flex:1}
-.name{font-size:.82rem;line-height:1.5;min-height:3.7em;font-weight:500}
+.soldtag span{border:2px solid var(--red);color:var(--red);font-family:var(--head);font-weight:700;font-size:.9rem;letter-spacing:.18em;padding:6px 16px;transform:rotate(-8deg);background:rgba(255,255,255,.82)}
+.body{padding:13px 14px 14px;display:flex;flex-direction:column;gap:9px;flex:1}
+.name{font-size:.8rem;line-height:1.5;font-weight:500;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.95em}
 .meta{display:flex;align-items:flex-end;justify-content:space-between;gap:8px;margin-top:auto}
-.price{font-family:var(--head);font-weight:700;font-size:1.5rem;line-height:1;letter-spacing:.01em}
+.price{font-family:var(--head);font-weight:700;font-size:1.45rem;line-height:1}
 .price .c{font-size:.85rem;color:var(--mut);font-weight:400;margin-right:1px}
-.price.ask{font-size:.74rem;font-weight:300;letter-spacing:.1em;color:var(--mut);text-transform:uppercase}
-.left{font-family:var(--head);font-weight:500;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap;padding-bottom:3px}
+.price.ask{font-size:.72rem;font-weight:300;letter-spacing:.1em;color:var(--mut);text-transform:uppercase}
+.left{font-family:var(--head);font-weight:500;font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap;padding-bottom:3px}
 .left.ok{color:var(--grn)} .left.low{color:var(--amb)} .left.out{color:var(--red)}
-.slots{display:flex;gap:5px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:10px}
-.slot{font-family:var(--head);font-size:.62rem;letter-spacing:.04em;border:1px solid var(--line2);padding:3px 8px;color:var(--mut);text-transform:uppercase}
-.slot b{color:#fff;font-weight:600}
-.slot.out{opacity:.4;text-decoration:line-through}
+.slots{font-family:var(--head);font-weight:300;font-size:.62rem;letter-spacing:.06em;color:var(--mut2);text-transform:uppercase;line-height:1.8}
+.slots b{color:var(--mut);font-weight:500}
+.slots .so{text-decoration:line-through;opacity:.55}
 
 .empty{text-align:center;color:var(--mut);font-family:var(--head);letter-spacing:.16em;text-transform:uppercase;padding:80px 0;font-size:.85rem}
 .loading{text-align:center;color:var(--mut);font-family:var(--head);letter-spacing:.2em;text-transform:uppercase;padding:110px 0;font-size:.8rem}
-.loading .dot{animation:pulse 1.2s infinite}
 
-footer{border-top:1px solid var(--line);padding:34px 22px;text-align:center}
-footer .fb{display:flex;align-items:center;justify-content:center;gap:11px;margin-bottom:14px}
+footer{border-top:1px solid var(--line);padding:32px 22px;text-align:center}
+footer .fb{display:flex;align-items:center;justify-content:center;gap:11px;margin-bottom:13px}
 footer .ft{font-family:var(--head);font-weight:700;letter-spacing:.24em;font-size:.82rem}
-footer p{color:var(--mut2);font-size:.72rem;line-height:1.7;font-family:var(--head);font-weight:300;letter-spacing:.08em;text-transform:uppercase}
+footer p{color:var(--mut2);font-size:.7rem;line-height:1.7;font-family:var(--head);font-weight:300;letter-spacing:.08em;text-transform:uppercase}
 
 @media(max-width:560px){
-  .grid{grid-template-columns:repeat(2,1fr);gap:11px}
-  .name{font-size:.74rem;min-height:3.4em}
-  .price{font-size:1.25rem}
+  .grid{grid-template-columns:repeat(2,1fr);gap:10px}
+  .name{font-size:.73rem}
+  .price{font-size:1.2rem}
   .hwrap{padding:12px 16px}
-  .upd{font-size:.6rem}
-  .brand .bt{font-size:.92rem;letter-spacing:.2em}
-  .controls{padding:20px 16px 10px}
-  main{padding:14px 16px 60px}
-  .body{padding:11px 12px 13px}
+  .upd{font-size:.58rem}
+  .brand .bt{font-size:.9rem;letter-spacing:.2em}
+  .controls{padding:18px 16px 8px}
+  main{padding:12px 16px 60px}
+  .body{padding:11px 12px 12px}
+  .imgbox{padding:10px}
 }
 </style>
 </head>
@@ -135,8 +129,8 @@ footer p{color:var(--mut2);font-size:.72rem;line-height:1.7;font-family:var(--he
 <a id="top"></a>
 <section class="hero">
   <div class="eyebrow">Vending · Real-time Stock</div>
-  <h1>เลือกการ์ด<br><span class="o">ก่อนเดินไปตู้</span></h1>
-  <p>เช็กสินค้า ราคา และจำนวนคงเหลือของแต่ละช่องในตู้ BLACKCARD ทุกสาขาแบบเรียลไทม์ — รู้ก่อนว่ามีอะไร เหลือเท่าไหร่ ราคาเท่าไหร่</p>
+  <h1>Know Before<br><span class="o">You Pull</span></h1>
+  <p>เช็กสินค้า ราคา และจำนวนคงเหลือของแต่ละช่องในตู้ BLACKCARD ทุกสาขาแบบเรียลไทม์</p>
   <div class="stats" id="stats"></div>
 </section>
 
@@ -175,6 +169,15 @@ let DATA=null, mi=0;
 const $=id=>document.getElementById(id);
 const fmt=n=>n==null?'—':n.toLocaleString('th-TH');
 
+/* ชื่อสาขาภาษาอังกฤษ (ตู้ใหม่ที่ไม่อยู่ในรายการจะแสดงชื่อจากระบบ VMS) */
+const SITE_EN={
+  'VCM350CKC20090001':{name:'CENTRAL NAKHON PATHOM',area:'Mueang'},
+  'VCM350CKC21050003':{name:'SIAM DISCOVERY',area:'Pathumwan'},
+  'VCM600CKC24120705':{name:'THE MALL LIFESTORE BANGKHAE',area:'Bangkhae'}
+};
+const siteName=m=>(SITE_EN[m.id]||{}).name||m.site||m.id;
+const siteArea=m=>(SITE_EN[m.id]||{}).area||m.route||'';
+
 function groupProducts(m){
   const map=new Map();
   for(const s of (m.slots||[])){
@@ -193,15 +196,15 @@ function renderStats(){
   const totalSlots=ms.reduce((n,m)=>n+(m.slots||[]).length,0);
   const totalQty=ms.reduce((n,m)=>n+(m.slots||[]).reduce((a,s)=>a+(s.qty||0),0),0);
   $('stats').innerHTML=[
-    ['สาขา',ms.length],
-    ['ช่องทั้งหมด',totalSlots],
-    ['สินค้าในตู้',fmt(totalQty)]
+    ['Locations',ms.length],
+    ['Slots',totalSlots],
+    ['In Stock',fmt(totalQty)]
   ].map(([l,n])=>`<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
 }
 
 function renderTabs(){
   $('tabs').innerHTML=DATA.machines.map((m,i)=>
-    `<button class="tab${i===mi?' active':''}" onclick="selM(${i})">${m.site||m.id}<small>${m.route||''} · ${(m.slots||[]).length} ช่อง</small></button>`).join('');
+    `<button class="tab${i===mi?' active':''}" onclick="selM(${i})">${siteName(m)}<small>${siteArea(m)} · ${(m.slots||[]).length} slots</small></button>`).join('');
 }
 function selM(i){mi=i;renderTabs();renderCat();render();}
 
@@ -221,7 +224,6 @@ function render(){
   $('grid').innerHTML=items.map(p=>{
     const out=p.qty===0;
     const cls=out?'out':(p.qty<=Math.max(2,p.cap*.15)?'low':'ok');
-    const leftTxt=out?'หมด':'เหลือ '+p.qty;
     return `<div class="card${out?' sold':''}">
       <div class="imgbox">${p.img?`<img loading="lazy" src="${p.img}" alt="">`:'<div class="noimg">No Image</div>'}
         ${p.cat?`<div class="badge">${p.cat}</div>`:''}
@@ -231,9 +233,9 @@ function render(){
         <div class="name">${p.name}</div>
         <div class="meta">
           <div class="price${p.price!=null?'':' ask'}">${p.price!=null?'<span class="c">฿</span>'+fmt(p.price):'สอบถามหน้าตู้'}</div>
-          <div class="left ${cls}">${leftTxt}</div>
+          <div class="left ${cls}">${out?'หมด':'เหลือ '+p.qty}</div>
         </div>
-        <div class="slots">${p.slots.map(s=>`<span class="slot${s.qty===0?' out':''}">${s.aisle}·<b>${s.qty}</b></span>`).join('')}</div>
+        <div class="slots">${p.slots.map(s=>`<span class="${s.qty===0?'so':''}">${s.aisle}·<b>${s.qty}</b></span>`).join(' &nbsp;')}</div>
       </div>
     </div>`;}).join('');
   $('empty').style.display=items.length?'none':'block';
