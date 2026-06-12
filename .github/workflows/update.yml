@@ -2,8 +2,8 @@ name: อัปเดตข้อมูลสินค้าในตู้
 
 on:
   schedule:
-    # ทุก 30 นาที (เวลา UTC)
-    - cron: '*/30 * * * *'
+    # ทุก 5 นาที (ถี่สุดที่ GitHub Actions รองรับ; เวลาจริงอาจดีเลย์เป็นบางช่วง)
+    - cron: '*/5 * * * *'
   workflow_dispatch: {}   # กดรันเองได้จากแท็บ Actions
 
 permissions:
