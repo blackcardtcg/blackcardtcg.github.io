@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-06-12T16:12:14.036Z",
+ "updatedAt": "2026-06-12T16:18:03.304Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "06-13 00:11",
+   "updateTime": "06-13 00:17",
    "supplyTime": "06-12 21:49",
    "slots": [
     {
@@ -14,7 +14,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 290,
+     "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
      "cat": "LORCANA"
     },
@@ -24,7 +24,7 @@
      "capacity": 18,
      "qty": 7,
      "status": "Normal",
-     "price": 790,
+     "price": 1250,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
      "cat": "LORCANA"
     },
@@ -34,7 +34,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 350,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -44,7 +44,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 350,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -74,7 +74,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 370,
+     "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
      "cat": "POKEMON"
     },
@@ -104,7 +104,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 140,
+     "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/52e29eb4a1e043b28eceeacda0f7cde9.png",
      "cat": "POKEMON"
     },
@@ -174,7 +174,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 290,
+     "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
      "cat": "LORCANA"
     },
@@ -304,7 +304,7 @@
      "capacity": 6,
      "qty": 0,
      "status": "Sold Out",
-     "price": 1890,
+     "price": 2690,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/b2cbe52fe8b04f48b5a23435a269684b.png",
      "cat": "ONE PIECE"
     },
@@ -314,7 +314,7 @@
      "capacity": 6,
      "qty": 0,
      "status": "Sold Out",
-     "price": 1890,
+     "price": 2690,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/b2cbe52fe8b04f48b5a23435a269684b.png",
      "cat": "ONE PIECE"
     },
@@ -324,7 +324,7 @@
      "capacity": 6,
      "qty": 0,
      "status": "Sold Out",
-     "price": 1890,
+     "price": 2690,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/b2cbe52fe8b04f48b5a23435a269684b.png",
      "cat": "ONE PIECE"
     },
@@ -344,7 +344,7 @@
      "capacity": 8,
      "qty": 1,
      "status": "Normal",
-     "price": 3700,
+     "price": 7900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/feb710f090194ad883a787ea95c75384.png",
      "cat": "POKEMON"
     },
@@ -354,7 +354,7 @@
      "capacity": 8,
      "qty": 0,
      "status": "Sold Out",
-     "price": 3700,
+     "price": 7900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/feb710f090194ad883a787ea95c75384.png",
      "cat": "POKEMON"
     },
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "06-13 00:11",
+   "updateTime": "06-13 00:17",
    "supplyTime": "06-11 16:02",
    "slots": [
     {
@@ -403,7 +403,7 @@
      "capacity": 18,
      "qty": 9,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -413,7 +413,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -443,7 +443,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 195,
+     "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/b6f278affcce4413937cea747cd90efa.jpg",
      "cat": "ONE PIECE"
     },
@@ -463,7 +463,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 370,
+     "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/304035d5aed341d7931e49aa197cebdf.jpg",
      "cat": "POKEMON"
     },
@@ -473,7 +473,7 @@
      "capacity": 18,
      "qty": 14,
      "status": "Normal",
-     "price": 260,
+     "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
      "cat": "POKEMON"
     },
@@ -483,7 +483,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 140,
+     "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
      "cat": "POKEMON"
     },
@@ -493,7 +493,7 @@
      "capacity": 18,
      "qty": 12,
      "status": "Normal",
-     "price": 450,
+     "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
      "cat": "POKEMON"
     },
@@ -553,7 +553,7 @@
      "capacity": 18,
      "qty": 13,
      "status": "Normal",
-     "price": 290,
+     "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
      "cat": "LORCANA"
     },
@@ -583,7 +583,7 @@
      "capacity": 18,
      "qty": 0,
      "status": "Sold Out",
-     "price": 290,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -593,7 +593,7 @@
      "capacity": 18,
      "qty": 6,
      "status": "Normal",
-     "price": 290,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -633,7 +633,7 @@
      "capacity": 4,
      "qty": 3,
      "status": "Normal",
-     "price": 5490,
+     "price": 6990,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/017ba5da67b14f3182bdb3810eb77f1d.jpg",
      "cat": "ONE PIECE"
     },
@@ -643,7 +643,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 5490,
+     "price": 6990,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/017ba5da67b14f3182bdb3810eb77f1d.jpg",
      "cat": "ONE PIECE"
     },
@@ -653,7 +653,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 2250,
+     "price": 8990,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ccd909267fb0475eb5a15d00cd1af024.jpg",
      "cat": "ONE PIECE"
     },
@@ -663,7 +663,7 @@
      "capacity": 4,
      "qty": 3,
      "status": "Normal",
-     "price": 3790,
+     "price": 4790,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -673,7 +673,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3790,
+     "price": 4790,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -683,7 +683,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3790,
+     "price": 4790,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -693,7 +693,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3990,
+     "price": 4290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac06ee03c9fa4440ad3331c364fccfb0.jpg",
      "cat": "ONE PIECE"
     },
@@ -703,7 +703,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -713,7 +713,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -723,7 +723,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -733,7 +733,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -743,7 +743,7 @@
      "capacity": 6,
      "qty": 1,
      "status": "Normal",
-     "price": 1890,
+     "price": 2690,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a01bd244eb10487f844b3ca7128df913.jpg",
      "cat": "ONE PIECE"
     },
@@ -753,7 +753,7 @@
      "capacity": 8,
      "qty": 1,
      "status": "Normal",
-     "price": 7500,
+     "price": 8500,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c5cbeca7cdd54b1c8206c878d9cdfbf4.jpg",
      "cat": "POKEMON"
     },
@@ -763,7 +763,7 @@
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
-     "price": 3500,
+     "price": 4700,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/246a8b6f18604eb981cac300094143d0.jpg",
      "cat": "POKEMON"
     },
@@ -773,7 +773,7 @@
      "capacity": 6,
      "qty": 4,
      "status": "Normal",
-     "price": 120,
+     "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eda44f0e83064cf68a3a5bea7e8264fa.png",
      "cat": "Blue Berry"
     },
@@ -803,7 +803,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "06-13 00:11",
+   "updateTime": "06-13 00:17",
    "supplyTime": "06-12 13:41",
    "slots": [
     {
@@ -842,7 +842,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 140,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -852,7 +852,7 @@
      "capacity": 18,
      "qty": 16,
      "status": "Normal",
-     "price": 140,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -862,7 +862,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 140,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -902,7 +902,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 250,
+     "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7d8692b1ee1c4ecf9161d43a723b9777.jpg",
      "cat": "ONE PIECE"
     },
@@ -912,7 +912,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 250,
+     "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7d8692b1ee1c4ecf9161d43a723b9777.jpg",
      "cat": "ONE PIECE"
     },
@@ -922,7 +922,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 250,
+     "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7d8692b1ee1c4ecf9161d43a723b9777.jpg",
      "cat": "ONE PIECE"
     },
@@ -932,7 +932,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 195,
+     "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/b6f278affcce4413937cea747cd90efa.jpg",
      "cat": "ONE PIECE"
     },
@@ -942,7 +942,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -952,7 +952,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -962,7 +962,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -972,7 +972,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -982,7 +982,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -992,7 +992,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 170,
+     "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -1012,7 +1012,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 290,
+     "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
      "cat": "LORCANA"
     },
@@ -1022,7 +1022,7 @@
      "capacity": 18,
      "qty": 16,
      "status": "Normal",
-     "price": 290,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -1032,7 +1032,7 @@
      "capacity": 18,
      "qty": 14,
      "status": "Normal",
-     "price": 290,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -1042,7 +1042,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 290,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -1052,7 +1052,7 @@
      "capacity": 18,
      "qty": 13,
      "status": "Normal",
-     "price": 140,
+     "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
      "cat": "POKEMON"
     },
@@ -1062,7 +1062,7 @@
      "capacity": 18,
      "qty": 13,
      "status": "Normal",
-     "price": 140,
+     "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
      "cat": "POKEMON"
     },
@@ -1072,7 +1072,7 @@
      "capacity": 18,
      "qty": 14,
      "status": "Normal",
-     "price": 140,
+     "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
      "cat": "POKEMON"
     },
@@ -1082,7 +1082,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 260,
+     "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
      "cat": "POKEMON"
     },
@@ -1092,7 +1092,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 260,
+     "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
      "cat": "POKEMON"
     },
@@ -1102,7 +1102,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 260,
+     "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
      "cat": "POKEMON"
     },
@@ -1112,7 +1112,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 450,
+     "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
      "cat": "POKEMON"
     },
@@ -1122,7 +1122,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 450,
+     "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
      "cat": "POKEMON"
     },
@@ -1132,7 +1132,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 450,
+     "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
      "cat": "POKEMON"
     },
@@ -1142,7 +1142,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 370,
+     "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/304035d5aed341d7931e49aa197cebdf.jpg",
      "cat": "POKEMON"
     },
@@ -1152,7 +1152,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 370,
+     "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/304035d5aed341d7931e49aa197cebdf.jpg",
      "cat": "POKEMON"
     },
@@ -1162,7 +1162,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 370,
+     "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/304035d5aed341d7931e49aa197cebdf.jpg",
      "cat": "POKEMON"
     },
@@ -1172,7 +1172,7 @@
      "capacity": 4,
      "qty": 2,
      "status": "Normal",
-     "price": 5490,
+     "price": 6990,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/017ba5da67b14f3182bdb3810eb77f1d.jpg",
      "cat": "ONE PIECE"
     },
@@ -1192,7 +1192,7 @@
      "capacity": 4,
      "qty": 2,
      "status": "Normal",
-     "price": 3790,
+     "price": 4790,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -1202,7 +1202,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3790,
+     "price": 4790,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -1212,7 +1212,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3090,
+     "price": 3890,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c030e929853b486980871999a659d0b8.jpg",
      "cat": "ONE PIECE"
     },
@@ -1222,7 +1222,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3990,
+     "price": 4290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac06ee03c9fa4440ad3331c364fccfb0.jpg",
      "cat": "ONE PIECE"
     },
@@ -1232,7 +1232,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 2100,
+     "price": 4000,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6ed65da2ef694ae7b92c77e2006649e8.jpg",
      "cat": "POKEMON"
     },
@@ -1242,7 +1242,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -1252,7 +1252,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -1262,7 +1262,7 @@
      "capacity": 6,
      "qty": 4,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -1272,7 +1272,7 @@
      "capacity": 6,
      "qty": 4,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -1282,7 +1282,7 @@
      "capacity": 6,
      "qty": 4,
      "status": "Normal",
-     "price": 4200,
+     "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
      "cat": "POKEMON"
     },
@@ -1292,7 +1292,7 @@
      "capacity": 8,
      "qty": 2,
      "status": "Normal",
-     "price": 3500,
+     "price": 4700,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/246a8b6f18604eb981cac300094143d0.jpg",
      "cat": "POKEMON"
     },
@@ -1302,7 +1302,7 @@
      "capacity": 8,
      "qty": 2,
      "status": "Normal",
-     "price": 3500,
+     "price": 4700,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/246a8b6f18604eb981cac300094143d0.jpg",
      "cat": "POKEMON"
     },
