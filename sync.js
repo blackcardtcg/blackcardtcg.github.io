@@ -73,6 +73,23 @@ function parseInventoryTable(html) {
   return rows;
 }
 
+/** ดึงราคารายช่องจากหน้า Machine management (aisle config)
+ *  ราคาที่ตั้งขายจริงต่อช่องอยู่ใน <input id="price_XXX" value="220.00">
+ *  หมายเหตุ: ราคานี้คือราคาที่ใช้แสดงบนเว็บ (Goods center อาจไม่ตรง) */
+function parseAislePrices(html) {
+  const map = {};
+  const inputRe = /<input\b[^>]*>/gi;
+  let m;
+  while ((m = inputRe.exec(html))) {
+    const tag = m[0];
+    const idm = tag.match(/id\s*=\s*["']price_([0-9A-Za-z]+)["']/);
+    if (!idm) continue;
+    const vm = tag.match(/value\s*=\s*["']([\d.]+)["']/);
+    if (vm) map[idm[1]] = parseFloat(vm[1]);
+  }
+  return map;
+}
+
 /** จับคู่ชื่อสินค้าในตู้ (อาจถูกตัดท้าย ~100 ตัวอักษร) กับรายการสินค้า */
 function matchGoods(invName, goodsList) {
   const n = norm(invName);
@@ -131,26 +148,32 @@ async function pullAccount(user, pass) {
     .filter(g => g.goodsName && g.retailPrice > 1) // ตัดรายการ test
     .map(g => ({ n: norm(g.goodsName), p: g.retailPrice, i: g.goodsImg, c: g.categoryName || '' }));
 
-  // 4) สต๊อกรายช่องของแต่ละตู้
+  // 4) สต๊อกรายช่อง + ราคาที่ตั้งขายจริงรายช่อง (จาก Machine management) ของแต่ละตู้
   for (const m of machines) {
     const invRes = await s.fetch(`${BASE}/page/view_inventory/${m.id}.do`);
     const invHtml = await invRes.text();
+    const cfgRes = await s.fetch(`${BASE}/aisle/load_aisle_config.do?machineNum=${m.id}`);
+    const cfgHtml = await cfgRes.text();
+    const aislePrice = parseAislePrices(cfgHtml); // { '010': 220, ... }
     const slots = parseInventoryTable(invHtml);
     m.slots = slots.map(sl => {
       const g = matchGoods(sl.name, goods);
+      // ราคาหลัก = ราคารายช่องจาก Machine management, สำรอง = Goods center
+      const p = aislePrice[sl.aisle] != null ? aislePrice[sl.aisle] : (g ? g.p : null);
       return {
         aisle: sl.aisle,
         name: g ? g.n : sl.name,
         capacity: sl.capacity,
         qty: sl.qty,
         status: sl.status,
-        price: g ? g.p : null,
+        price: p,
         img: g && g.i ? BASE + g.i : null,
         cat: g ? g.c : '',
       };
     });
-    const unmatched = m.slots.filter(x => x.price === null).length;
-    console.log(`  ${m.id} (${m.site}): ${m.slots.length} ช่อง, จับคู่ราคาไม่ได้ ${unmatched} ช่อง`);
+    const noPrice = m.slots.filter(x => x.price === null).length;
+    const fromAisle = m.slots.filter(x => aislePrice[x.aisle] != null).length;
+    console.log(`  ${m.id} (${m.site}): ${m.slots.length} ช่อง, ราคาจาก machine management ${fromAisle} ช่อง, ไม่มีราคา ${noPrice} ช่อง`);
   }
   return machines;
 }
