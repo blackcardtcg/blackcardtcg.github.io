@@ -241,7 +241,7 @@ function render(){
 
 ['q','cat','stock'].forEach(id=>$(id).addEventListener('input',render));
 
-fetch('data.json?t='+Date.now()).then(r=>r.json()).then(d=>{
+fetch('https://blackcard-vms.cnp-voice.workers.dev/?t='+Date.now()).then(r=>r.json()).then(d=>{
   DATA=d;
   $('loading').style.display='none';
   const t=new Date(d.updatedAt);
