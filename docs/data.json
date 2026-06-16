@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-06-16T17:11:14.435Z",
+ "updatedAt": "2026-06-16T18:13:50.369Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "06-17 01:10",
-   "supplyTime": "06-17 00:00",
+   "updateTime": "06-17 02:13",
+   "supplyTime": "06-17 00:15",
    "slots": [
     {
      "aisle": "010",
@@ -514,7 +514,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "06-17 01:10",
+   "updateTime": "06-17 02:13",
    "supplyTime": "06-17 01:05",
    "slots": [
     {
@@ -903,7 +903,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "06-17 01:10",
+   "updateTime": "06-17 02:13",
    "supplyTime": "06-16 15:50",
    "slots": [
     {
@@ -1312,7 +1312,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "06-17 01:10",
+   "updateTime": "06-17 02:12",
    "supplyTime": "06-16 17:51",
    "slots": [
     {
