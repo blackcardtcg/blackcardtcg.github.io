@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-07T18:25:48.658Z",
+ "updatedAt": "2026-07-07T22:39:13.694Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-08 02:25",
+   "updateTime": "07-08 06:38",
    "supplyTime": "06-29 20:50",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-08 02:25",
+   "updateTime": "07-08 06:38",
    "supplyTime": "06-29 21:29",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-08 02:24",
+   "updateTime": "07-08 06:38",
    "supplyTime": "07-07 17:01",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-08 02:25",
+   "updateTime": "07-08 06:38",
    "supplyTime": "07-07 18:59",
    "slots": [
     {
@@ -1897,12 +1897,12 @@
     },
     {
      "aisle": "054",
-     "name": "YUGIOH REVOLUTION 02",
+     "name": "[ 1 BOX ] [JP] YUGIOH! REVOLUTION BOOSTER 02",
      "capacity": 6,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 1990,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/cb1a44905c144c138d2dc76d0f321949.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/096388a3e9b04fee9f200217208bf15b.png",
      "cat": "YUGIOH"
     },
     {
