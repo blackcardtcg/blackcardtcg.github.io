@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-08T13:17:13.385Z",
+ "updatedAt": "2026-07-08T18:10:04.387Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-08 21:16",
+   "updateTime": "07-09 02:09",
    "supplyTime": "06-29 20:50",
    "slots": [
     {
@@ -584,14 +584,14 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-08 21:16",
+   "updateTime": "07-09 02:09",
    "supplyTime": "06-29 21:29",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -711,7 +711,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 10,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -973,8 +973,8 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-08 21:17",
-   "supplyTime": "07-07 17:01",
+   "updateTime": "07-09 02:09",
+   "supplyTime": "07-08 20:46",
    "slots": [
     {
      "aisle": "010",
@@ -1040,8 +1040,8 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -The Azure Sea’s Seven- [OP-14]",
      "capacity": 18,
-     "qty": 0,
-     "status": "Sold Out",
+     "qty": 11,
+     "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
@@ -1050,8 +1050,8 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -The Azure Sea’s Seven- [OP-14]",
      "capacity": 18,
-     "qty": 0,
-     "status": "Sold Out",
+     "qty": 10,
+     "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
@@ -1140,7 +1140,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1190,7 +1190,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ] [EN] Disney Lorcana: Azurite Sea Booster Pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 13,
      "status": "Normal",
      "price": 260,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1a89723d2a954852b92184849972950f.jpg",
@@ -1260,7 +1260,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-08 21:16",
+   "updateTime": "07-09 02:09",
    "supplyTime": "07-07 18:59",
    "slots": [
     {
