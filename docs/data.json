@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-12T14:15:34.290Z",
+ "updatedAt": "2026-07-12T15:26:35.343Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-12 22:14",
+   "updateTime": "07-12 23:25",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-12 22:14",
+   "updateTime": "07-12 23:26",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-12 22:15",
+   "updateTime": "07-12 23:26",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1260,7 +1260,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 9,
+     "qty": 8,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-12 22:15",
+   "updateTime": "07-12 23:26",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
@@ -1529,7 +1529,7 @@
      "aisle": "019",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1539,7 +1539,7 @@
      "aisle": "01A",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7d8692b1ee1c4ecf9161d43a723b9777.jpg",
