@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-13T04:03:01.331Z",
+ "updatedAt": "2026-07-13T07:31:25.760Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-13 12:01",
+   "updateTime": "07-13 15:30",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
@@ -162,7 +162,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 14,
-     "qty": 9,
+     "qty": 8,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -232,7 +232,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 14,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-13 12:02",
+   "updateTime": "07-13 15:30",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
@@ -701,7 +701,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 13,
+     "qty": 4,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -711,7 +711,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 11,
+     "qty": 9,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -751,7 +751,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-13 12:02",
+   "updateTime": "07-13 15:30",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-13 12:02",
+   "updateTime": "07-13 15:31",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
@@ -1509,7 +1509,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -1609,7 +1609,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Reign of Jafar Booster Pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/de51885b22e840839ab921d640b54203.jpg",
