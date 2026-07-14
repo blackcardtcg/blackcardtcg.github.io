@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-14T11:47:43.311Z",
+ "updatedAt": "2026-07-14T12:55:29.283Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-14 19:47",
+   "updateTime": "07-14 20:54",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
@@ -172,7 +172,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 14,
-     "qty": 14,
+     "qty": 4,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-14 19:46",
+   "updateTime": "07-14 20:55",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
@@ -641,7 +641,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -711,7 +711,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 7,
+     "qty": 4,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-14 19:47",
+   "updateTime": "07-14 20:55",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-14 19:47",
+   "updateTime": "07-14 20:55",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
@@ -1459,7 +1459,7 @@
      "aisle": "012",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -1659,7 +1659,7 @@
      "aisle": "02A",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Winterspell Booster pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
@@ -1939,7 +1939,7 @@
      "aisle": "064",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eda44f0e83064cf68a3a5bea7e8264fa.png",
