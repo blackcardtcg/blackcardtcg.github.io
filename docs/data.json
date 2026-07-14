@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-14T10:15:22.692Z",
+ "updatedAt": "2026-07-14T11:47:43.311Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-14 18:14",
+   "updateTime": "07-14 19:47",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
@@ -162,8 +162,8 @@
      "aisle": "025",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 14,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
      "cat": "Battle of Talingchan"
@@ -584,14 +584,14 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-14 18:14",
+   "updateTime": "07-14 19:46",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 7,
+     "qty": 5,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -621,8 +621,8 @@
      "aisle": "013",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 3,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
      "cat": "Battle of Talingchan"
@@ -691,7 +691,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -711,7 +711,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 9,
+     "qty": 7,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-14 18:15",
+   "updateTime": "07-14 19:47",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1040,7 +1040,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -The Azure Sea’s Seven- [OP-14]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-14 18:15",
+   "updateTime": "07-14 19:47",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
