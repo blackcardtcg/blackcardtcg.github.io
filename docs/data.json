@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-07-15T09:44:49.664Z",
+ "updatedAt": "2026-07-15T11:16:17.372Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-15 17:44",
+   "updateTime": "07-15 19:15",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 14,
-     "qty": 6,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
      "cat": "Battle of Talingchan"
@@ -584,14 +584,14 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-15 17:43",
+   "updateTime": "07-15 19:15",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 3,
+     "qty": 1,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -641,7 +641,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-15 17:43",
+   "updateTime": "07-15 19:15",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1040,7 +1040,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -The Azure Sea’s Seven- [OP-14]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
@@ -1110,7 +1110,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK - HEROINES EDITION - [EB-03]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/03a72a6748d34d228849b1a9e3c10913.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-15 17:44",
+   "updateTime": "07-15 19:15",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
