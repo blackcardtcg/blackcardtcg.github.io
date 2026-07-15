@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-15T07:51:18.933Z",
+ "updatedAt": "2026-07-15T09:44:49.664Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-15 15:50",
+   "updateTime": "07-15 17:44",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
@@ -152,7 +152,7 @@
      "aisle": "024",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 14,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c8bd3ea2390f48b89fe1a092ca9220bf.jpg",
@@ -242,7 +242,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 14,
-     "qty": 14,
+     "qty": 12,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -412,7 +412,7 @@
      "aisle": "050",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 14,
-     "qty": 3,
+     "qty": 1,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -584,14 +584,14 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-15 15:50",
+   "updateTime": "07-15 17:43",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 5,
+     "qty": 3,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -691,7 +691,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 9,
+     "qty": 7,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -741,7 +741,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c8bd3ea2390f48b89fe1a092ca9220bf.jpg",
@@ -751,7 +751,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-15 15:51",
+   "updateTime": "07-15 17:43",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-15 15:50",
+   "updateTime": "07-15 17:44",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
