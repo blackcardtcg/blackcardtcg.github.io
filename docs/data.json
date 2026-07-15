@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-15T05:53:01.069Z",
+ "updatedAt": "2026-07-15T07:51:18.933Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-15 13:52",
+   "updateTime": "07-15 15:50",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
@@ -232,8 +232,8 @@
      "aisle": "032",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 14,
-     "qty": 2,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
      "cat": "ONE PIECE"
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-15 13:52",
+   "updateTime": "07-15 15:50",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-15 13:52",
+   "updateTime": "07-15 15:51",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1060,7 +1060,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -1080,7 +1080,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 8,
+     "qty": 7,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1130,7 +1130,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/304035d5aed341d7931e49aa197cebdf.jpg",
@@ -1160,7 +1160,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [JP] POKEMON Inferno X Booster Box",
      "capacity": 18,
-     "qty": 14,
+     "qty": 12,
      "status": "Normal",
      "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
@@ -1260,7 +1260,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1370,7 +1370,7 @@
      "aisle": "054",
      "name": "[ 1 Box / 10 PACK ] [JP] POKEMON MEGA—Dream ex Booster Box",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 4900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/92d0b64748af41f28b27da983601d467.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-15 13:52",
+   "updateTime": "07-15 15:50",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
