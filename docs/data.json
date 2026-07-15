@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-15T03:26:34.657Z",
+ "updatedAt": "2026-07-15T05:53:01.069Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-15 11:25",
+   "updateTime": "07-15 13:52",
    "supplyTime": "07-09 20:22",
    "slots": [
     {
@@ -52,7 +52,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [ English Ver.] POKEMON Mega Evolution-Ascended Heroes",
      "capacity": 14,
-     "qty": 7,
+     "qty": 5,
      "status": "Normal",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1125566a0a564446928e0fdc48e00df6.png",
@@ -412,7 +412,7 @@
      "aisle": "050",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 14,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-15 11:26",
+   "updateTime": "07-15 13:52",
    "supplyTime": "07-09 21:49",
    "slots": [
     {
@@ -711,8 +711,8 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
      "cat": "ONE PIECE"
@@ -781,7 +781,7 @@
      "aisle": "031",
      "name": "[ 1 Box / 24 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 4,
-     "qty": 2,
+     "qty": 1,
      "status": "Normal",
      "price": 5750,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/557827b89cd04710ab85fe91cdc79e4d.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-15 11:26",
+   "updateTime": "07-15 13:52",
    "supplyTime": "07-11 15:56",
    "slots": [
     {
@@ -1080,7 +1080,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 9,
+     "qty": 8,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1190,7 +1190,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ] [EN] Disney Lorcana: Azurite Sea Booster Pack",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 260,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1a89723d2a954852b92184849972950f.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-15 11:26",
+   "updateTime": "07-15 13:52",
    "supplyTime": "07-11 17:36",
    "slots": [
     {
@@ -1519,7 +1519,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 12,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
