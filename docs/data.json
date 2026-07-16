@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-16T16:05:59.851Z",
+ "updatedAt": "2026-07-16T17:37:27.400Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-17 00:05",
+   "updateTime": "07-17 01:36",
    "supplyTime": "07-16 15:10",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-17 00:05",
+   "updateTime": "07-17 01:37",
    "supplyTime": "07-16 15:08",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-17 00:05",
+   "updateTime": "07-17 01:37",
    "supplyTime": "07-16 15:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-17 00:05",
+   "updateTime": "07-17 01:37",
    "supplyTime": "07-16 18:45",
    "slots": [
     {
@@ -1499,7 +1499,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -1589,7 +1589,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] Disney Lorcana: Azurite Sea Booster Pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 260,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1a89723d2a954852b92184849972950f.jpg",
