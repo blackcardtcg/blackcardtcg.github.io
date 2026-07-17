@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-07-17T01:10:32.953Z",
+ "updatedAt": "2026-07-17T04:24:19.970Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-17 09:09",
+   "updateTime": "07-17 12:24",
    "supplyTime": "07-16 15:10",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 14,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
      "cat": "Battle of Talingchan"
@@ -182,7 +182,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 14,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-17 09:10",
+   "updateTime": "07-17 12:23",
    "supplyTime": "07-16 15:08",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-17 09:10",
+   "updateTime": "07-17 12:24",
    "supplyTime": "07-16 15:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-17 09:10",
+   "updateTime": "07-17 12:24",
    "supplyTime": "07-16 18:45",
    "slots": [
     {
