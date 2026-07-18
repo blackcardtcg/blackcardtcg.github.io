@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-18T07:37:47.274Z",
+ "updatedAt": "2026-07-18T09:10:35.818Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-18 15:36",
+   "updateTime": "07-18 17:09",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -272,7 +272,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 14,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-18 15:37",
+   "updateTime": "07-18 17:10",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -681,7 +681,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-18 15:37",
+   "updateTime": "07-18 17:10",
    "supplyTime": "07-16 15:27",
    "slots": [
     {
@@ -1020,7 +1020,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -1100,7 +1100,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [JP] BOOSTER PACK -CROSS FORCE- [FB10]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
@@ -1130,7 +1130,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/304035d5aed341d7931e49aa197cebdf.jpg",
@@ -1140,7 +1140,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1270,7 +1270,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 10,
+     "qty": 8,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-18 15:37",
+   "updateTime": "07-18 17:10",
    "supplyTime": "07-16 18:45",
    "slots": [
     {
@@ -1509,7 +1509,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -1659,7 +1659,7 @@
      "aisle": "02A",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Winterspell Booster pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
