@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-18T11:36:28.630Z",
+ "updatedAt": "2026-07-18T12:34:06.406Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-18 19:36",
+   "updateTime": "07-18 20:33",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-18 19:35",
+   "updateTime": "07-18 20:33",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -621,7 +621,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -711,7 +711,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 12,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-18 19:35",
+   "updateTime": "07-18 20:33",
    "supplyTime": "07-16 15:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-18 19:35",
+   "updateTime": "07-18 20:33",
    "supplyTime": "07-16 18:45",
    "slots": [
     {
