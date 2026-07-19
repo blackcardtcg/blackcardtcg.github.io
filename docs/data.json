@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-19T03:47:03.778Z",
+ "updatedAt": "2026-07-19T06:17:40.838Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-19 11:46",
+   "updateTime": "07-19 14:16",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-19 11:46",
+   "updateTime": "07-19 14:17",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -641,7 +641,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -681,7 +681,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -761,7 +761,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-19 11:46",
+   "updateTime": "07-19 14:16",
    "supplyTime": "07-16 15:27",
    "slots": [
     {
@@ -1160,7 +1160,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [JP] POKEMON Inferno X Booster Box",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-19 11:46",
+   "updateTime": "07-19 14:16",
    "supplyTime": "07-16 18:45",
    "slots": [
     {
@@ -1579,7 +1579,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Shimmering Skies Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2143d43ecaa94ad596a26b5c4ce2d451.jpg",
@@ -1699,7 +1699,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [JP] POKEMON Inferno X Booster Box",
      "capacity": 18,
-     "qty": 2,
+     "qty": 1,
      "status": "Normal",
      "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
@@ -1739,7 +1739,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
