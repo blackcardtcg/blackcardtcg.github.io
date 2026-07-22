@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-22T15:11:40.184Z",
+ "updatedAt": "2026-07-22T16:45:57.608Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-22 23:11",
+   "updateTime": "07-23 00:44",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-22 23:10",
+   "updateTime": "07-23 00:45",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-22 23:11",
+   "updateTime": "07-23 00:45",
    "supplyTime": "07-22 16:32",
    "slots": [
     {
@@ -1078,22 +1078,22 @@
     },
     {
      "aisle": "020",
-     "name": "TALINGCHAN PACK",
+     "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
      "price": 60,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/a1c29cea6a3c489383678e41593e331f.png",
      "cat": "TALINGCHAN"
     },
     {
      "aisle": "021",
-     "name": "TALINGCHAN PACK",
+     "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
      "price": 60,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/a1c29cea6a3c489383678e41593e331f.png",
      "cat": "TALINGCHAN"
     },
     {
@@ -1338,12 +1338,12 @@
     },
     {
      "aisle": "051",
-     "name": "CREATIONPACK02",
+     "name": "[ 1 BOX ] [ENG] YUGIOH! CREATIONPACK12",
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
      "price": 1200,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/67d8cee341a2404bbb821ad3c2893281.png",
      "cat": "YUGIOH"
     },
     {
@@ -1378,22 +1378,22 @@
     },
     {
      "aisle": "060",
-     "name": "BEYOND THE BRAVE",
+     "name": "[ 1 BOX ] [JP] YUGIOH! BEYOND THE BRAVE",
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
      "price": 1800,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/8d512eea49bf4675acfd6a3e963e2dac.png",
      "cat": "YUGIOH"
     },
     {
      "aisle": "062",
-     "name": "BEYOND THE BRAVE",
+     "name": "[ 1 BOX ] [JP] YUGIOH! BEYOND THE BRAVE",
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
      "price": 1800,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/8d512eea49bf4675acfd6a3e963e2dac.png",
      "cat": "YUGIOH"
     },
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-22 23:11",
+   "updateTime": "07-23 00:45",
    "supplyTime": "07-22 18:39",
    "slots": [
     {
@@ -1697,22 +1697,22 @@
     },
     {
      "aisle": "032",
-     "name": "TALINGCHAN PACK",
+     "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
      "price": 60,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/a1c29cea6a3c489383678e41593e331f.png",
      "cat": "TALINGCHAN"
     },
     {
      "aisle": "033",
-     "name": "TALINGCHAN PACK",
+     "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
      "price": 60,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/a1c29cea6a3c489383678e41593e331f.png",
      "cat": "TALINGCHAN"
     },
     {
@@ -1877,12 +1877,12 @@
     },
     {
      "aisle": "052",
-     "name": "CREATIONPACK02",
+     "name": "[ 1 BOX ] [ENG] YUGIOH! CREATIONPACK12",
      "capacity": 6,
      "qty": 5,
      "status": "Normal",
      "price": 1200,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/67d8cee341a2404bbb821ad3c2893281.png",
      "cat": "YUGIOH"
     },
     {
@@ -1917,22 +1917,22 @@
     },
     {
      "aisle": "060",
-     "name": "BEYOND THE BRAVE",
+     "name": "[ 1 BOX ] [JP] YUGIOH! BEYOND THE BRAVE",
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
      "price": 1800,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/8d512eea49bf4675acfd6a3e963e2dac.png",
      "cat": "YUGIOH"
     },
     {
      "aisle": "062",
-     "name": "BEYOND THE BRAVE",
+     "name": "[ 1 BOX ] [JP] YUGIOH! BEYOND THE BRAVE",
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
      "price": 1800,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/8d512eea49bf4675acfd6a3e963e2dac.png",
      "cat": "YUGIOH"
     },
     {
