@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-22T13:05:02.283Z",
+ "updatedAt": "2026-07-22T15:11:40.184Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-22 21:04",
+   "updateTime": "07-22 23:11",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-22 21:04",
+   "updateTime": "07-22 23:10",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-22 21:04",
+   "updateTime": "07-22 23:11",
    "supplyTime": "07-22 16:32",
    "slots": [
     {
@@ -1190,7 +1190,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ] [EN] Disney Lorcana: Azurite Sea Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 260,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1a89723d2a954852b92184849972950f.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-22 21:04",
+   "updateTime": "07-22 23:11",
    "supplyTime": "07-22 18:39",
    "slots": [
     {
@@ -1579,7 +1579,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] Disney Lorcana: Azurite Sea Booster Pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 260,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1a89723d2a954852b92184849972950f.jpg",
@@ -1589,7 +1589,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
@@ -1599,7 +1599,7 @@
      "aisle": "024",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Reign of Jafar Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/de51885b22e840839ab921d640b54203.jpg",
@@ -1879,7 +1879,7 @@
      "aisle": "052",
      "name": "CREATIONPACK02",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 1200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3635717294e24d36b41b3f31c5277c39.png",
