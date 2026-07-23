@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-23T13:07:26.644Z",
+ "updatedAt": "2026-07-23T15:22:06.546Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-23 21:06",
+   "updateTime": "07-23 23:21",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-23 21:06",
+   "updateTime": "07-23 23:21",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -761,7 +761,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 2,
+     "qty": 1,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-23 21:07",
+   "updateTime": "07-23 23:21",
    "supplyTime": "07-22 16:32",
    "slots": [
     {
@@ -1140,7 +1140,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1180,7 +1180,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Shimmering Skies Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 14,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2143d43ecaa94ad596a26b5c4ce2d451.jpg",
@@ -1190,7 +1190,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ] [EN] Disney Lorcana: Azurite Sea Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 260,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1a89723d2a954852b92184849972950f.jpg",
@@ -1220,7 +1220,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Fabled Booster Pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 1660,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
@@ -1250,7 +1250,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Winterspell Booster pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
@@ -1270,7 +1270,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-23 21:07",
+   "updateTime": "07-23 23:21",
    "supplyTime": "07-22 18:39",
    "slots": [
     {
@@ -1659,7 +1659,7 @@
      "aisle": "02A",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Winterspell Booster pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
@@ -1669,7 +1669,7 @@
      "aisle": "02B",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
