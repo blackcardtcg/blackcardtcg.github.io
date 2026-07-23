@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-23T01:13:00.205Z",
+ "updatedAt": "2026-07-23T04:35:41.238Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-23 09:12",
+   "updateTime": "07-23 12:35",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-23 09:12",
+   "updateTime": "07-23 12:34",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-23 09:12",
+   "updateTime": "07-23 12:35",
    "supplyTime": "07-22 16:32",
    "slots": [
     {
@@ -1100,7 +1100,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [JP] BOOSTER PACK -CROSS FORCE- [FB10]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-23 09:12",
+   "updateTime": "07-23 12:35",
    "supplyTime": "07-22 18:39",
    "slots": [
     {
