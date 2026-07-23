@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-23T07:14:28.856Z",
+ "updatedAt": "2026-07-23T09:39:02.782Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-23 15:13",
+   "updateTime": "07-23 17:38",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-23 15:14",
+   "updateTime": "07-23 17:38",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -621,7 +621,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -681,7 +681,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-23 15:14",
+   "updateTime": "07-23 17:38",
    "supplyTime": "07-22 16:32",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-23 15:14",
+   "updateTime": "07-23 17:38",
    "supplyTime": "07-22 18:39",
    "slots": [
     {
@@ -1589,7 +1589,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
@@ -1619,7 +1619,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Fabled Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 1660,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
@@ -1639,7 +1639,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Whisper in the Well",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5fbc5606dcab4c24a03ed2f315155456.png",
