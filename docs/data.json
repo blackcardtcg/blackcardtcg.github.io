@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-24T09:34:14.669Z",
+ "updatedAt": "2026-07-24T11:20:46.802Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-24 17:33",
+   "updateTime": "07-24 19:20",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -112,7 +112,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 14,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -152,7 +152,7 @@
      "aisle": "024",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 14,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c8bd3ea2390f48b89fe1a092ca9220bf.jpg",
@@ -512,8 +512,8 @@
      "aisle": "060",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
      "cat": "Blue Berry"
@@ -552,7 +552,7 @@
      "aisle": "064",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d8b8048ab4d84d8ab9993863cab267dc.png",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-24 17:33",
+   "updateTime": "07-24 19:19",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -621,7 +621,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -631,7 +631,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-24 17:33",
+   "updateTime": "07-24 19:20",
    "supplyTime": "07-22 16:32",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-24 17:33",
+   "updateTime": "07-24 19:20",
    "supplyTime": "07-22 18:39",
    "slots": [
     {
@@ -1669,7 +1669,7 @@
      "aisle": "02B",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1739,7 +1739,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 15,
+     "qty": 12,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1939,7 +1939,7 @@
      "aisle": "064",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 5,
+     "qty": 3,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eda44f0e83064cf68a3a5bea7e8264fa.png",
@@ -1959,7 +1959,7 @@
      "aisle": "066",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
