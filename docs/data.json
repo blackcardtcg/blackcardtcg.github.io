@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-07-24T07:10:23.750Z",
+ "updatedAt": "2026-07-24T09:34:14.669Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "07-24 15:09",
+   "updateTime": "07-24 17:33",
    "supplyTime": "07-17 20:25",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "07-24 15:09",
+   "updateTime": "07-24 17:33",
    "supplyTime": "07-17 21:55",
    "slots": [
     {
@@ -621,7 +621,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 5,
+     "qty": 3,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "07-24 15:09",
+   "updateTime": "07-24 17:33",
    "supplyTime": "07-22 16:32",
    "slots": [
     {
@@ -1200,7 +1200,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "07-24 15:10",
+   "updateTime": "07-24 17:33",
    "supplyTime": "07-22 18:39",
    "slots": [
     {
@@ -1719,7 +1719,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] POKEMON MEGA NINJA SPINNER [ M4 ]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
