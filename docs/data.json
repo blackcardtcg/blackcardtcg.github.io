@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-04T03:28:42.104Z",
+ "updatedAt": "2026-08-04T06:11:53.191Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-04 11:28",
+   "updateTime": "08-04 14:11",
    "supplyTime": "07-31 20:19",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-04 11:27",
+   "updateTime": "08-04 14:10",
    "supplyTime": "07-31 20:57",
    "slots": [
     {
@@ -641,7 +641,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ][ English Ver.] Disney Lorcana TCG Attack of the Vine",
      "capacity": 18,
-     "qty": 8,
+     "qty": 7,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb6a8eca391436fbd010d0a60fde100.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-04 11:28",
+   "updateTime": "08-04 14:11",
    "supplyTime": "07-29 15:16",
    "slots": [
     {
@@ -1350,7 +1350,7 @@
      "aisle": "052",
      "name": "[ 1 BOX ] [ENG] YUGIOH! ESSENTIAL SELECTION 02",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 1200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/aa475c362e0d401e81dd7864f51ed103.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-04 11:28",
+   "updateTime": "08-04 14:11",
    "supplyTime": "07-29 16:48",
    "slots": [
     {
@@ -1739,7 +1739,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 10,
+     "qty": 8,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
