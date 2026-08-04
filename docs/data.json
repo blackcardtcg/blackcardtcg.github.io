@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-04T18:59:49.766Z",
+ "updatedAt": "2026-08-04T20:38:34.882Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-05 02:58",
+   "updateTime": "08-05 04:37",
    "supplyTime": "07-31 20:19",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-05 02:59",
+   "updateTime": "08-05 04:38",
    "supplyTime": "07-31 20:57",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-05 02:59",
+   "updateTime": "08-05 04:38",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -1262,7 +1262,7 @@
      "capacity": 18,
      "qty": 11,
      "status": "Normal",
-     "price": 400,
+     "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
      "cat": "LORCANA"
     },
@@ -1272,7 +1272,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 400,
+     "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
      "cat": "LORCANA"
     },
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-05 02:59",
+   "updateTime": "08-05 04:38",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -1651,7 +1651,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 400,
+     "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
      "cat": "LORCANA"
     },
@@ -1661,7 +1661,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 400,
+     "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
      "cat": "LORCANA"
     },
@@ -1671,7 +1671,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 400,
+     "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
      "cat": "LORCANA"
     },
