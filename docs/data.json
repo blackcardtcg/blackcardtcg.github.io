@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-05T13:02:00.533Z",
+ "updatedAt": "2026-08-05T15:23:04.224Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-05 21:00",
+   "updateTime": "08-05 23:22",
    "supplyTime": "07-31 20:19",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-05 21:01",
+   "updateTime": "08-05 23:22",
    "supplyTime": "07-31 20:57",
    "slots": [
     {
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-05 21:01",
+   "updateTime": "08-05 23:22",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -1829,7 +1829,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 5,
+     "qty": 3,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1839,7 +1839,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 11,
+     "qty": 8,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-05 21:01",
+   "updateTime": "08-05 23:22",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
