@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-05T08:49:15.597Z",
+ "updatedAt": "2026-08-05T11:08:52.569Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-05 16:48",
+   "updateTime": "08-05 19:08",
    "supplyTime": "07-31 20:19",
    "slots": [
     {
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-05 16:48",
+   "updateTime": "08-05 19:07",
    "supplyTime": "07-31 20:57",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-05 16:48",
+   "updateTime": "08-05 16:56",
    "supplyTime": "08-05 14:05",
    "slots": [
     {
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-05 16:48",
+   "updateTime": "08-05 19:08",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -1599,7 +1599,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -The Azure Sea’s Seven- [OP-14]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-05 16:48",
+   "updateTime": "08-05 19:08",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2138,7 +2138,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK - HEROINES EDITION - [EB-03]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/03a72a6748d34d228849b1a9e3c10913.jpg",
@@ -2278,7 +2278,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -2328,7 +2328,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
