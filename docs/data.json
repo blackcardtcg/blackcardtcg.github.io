@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-06T04:17:54.789Z",
+ "updatedAt": "2026-08-06T07:08:09.553Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-06 12:17",
+   "updateTime": "08-06 15:06",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -631,7 +631,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -973,14 +973,14 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-06 12:17",
+   "updateTime": "08-06 15:06",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -1050,7 +1050,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 18,
+     "qty": 15,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -1180,7 +1180,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -1220,7 +1220,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ][ English Ver.] Disney Lorcana TCG Attack of the Vine",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb6a8eca391436fbd010d0a60fde100.png",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-06 12:17",
+   "updateTime": "08-06 15:07",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-06 12:17",
+   "updateTime": "08-06 15:07",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2298,7 +2298,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] POKEMON MEGA NINJA SPINNER [ M4 ]",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
@@ -2308,7 +2308,7 @@
      "aisle": "035",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
