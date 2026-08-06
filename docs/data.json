@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-06T09:49:08.596Z",
+ "updatedAt": "2026-08-06T11:53:05.944Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-06 17:48",
+   "updateTime": "08-06 19:52",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -661,8 +661,8 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ English Ver.] POKEMON Mega Evolution-Ascended Heroes",
      "capacity": 18,
-     "qty": 2,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1125566a0a564446928e0fdc48e00df6.png",
      "cat": "POKEMON"
@@ -711,7 +711,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-06 17:48",
+   "updateTime": "08-06 19:52",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1110,7 +1110,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 12,
+     "qty": 10,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-06 17:48",
+   "updateTime": "08-06 19:52",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -1679,7 +1679,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 12,
      "status": "Normal",
      "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/51fd7864526c4d3bae0532fe33f91c21.jpg",
@@ -1719,7 +1719,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1779,7 +1779,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
@@ -1839,7 +1839,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 8,
+     "qty": 6,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-06 17:48",
+   "updateTime": "08-06 19:52",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
