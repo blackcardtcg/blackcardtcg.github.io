@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08T09:06:49.722Z",
+ "updatedAt": "2026-08-08T09:51:04.930Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-08 17:06",
+   "updateTime": "08-08 17:50",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -631,7 +631,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 15,
+     "qty": 13,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -701,7 +701,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-08 17:05",
+   "updateTime": "08-08 17:50",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1080,7 +1080,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [ English Ver.] POKEMON Mega Evolution-Ascended Heroes",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1125566a0a564446928e0fdc48e00df6.png",
@@ -1130,7 +1130,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 14,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-08 17:06",
+   "updateTime": "08-08 17:50",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -1779,7 +1779,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-08 17:06",
+   "updateTime": "08-08 17:50",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2048,7 +2048,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -The Azure Sea’s Seven- [OP-14]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
