@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08T10:54:43.203Z",
+ "updatedAt": "2026-08-08T11:23:13.858Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-08 18:54",
+   "updateTime": "08-08 19:22",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -721,7 +721,7 @@
      "aisle": "024",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-08 18:53",
+   "updateTime": "08-08 19:22",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-08 18:54",
+   "updateTime": "08-08 19:22",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-08 18:54",
+   "updateTime": "08-08 19:23",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2298,7 +2298,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] POKEMON MEGA NINJA SPINNER [ M4 ]",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
