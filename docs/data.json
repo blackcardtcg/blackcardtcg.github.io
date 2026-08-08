@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08T04:16:41.175Z",
+ "updatedAt": "2026-08-08T05:11:11.640Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-08 12:15",
+   "updateTime": "08-08 13:10",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-08 12:16",
+   "updateTime": "08-08 13:10",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1110,7 +1110,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 9,
+     "qty": 6,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-08 12:16",
+   "updateTime": "08-08 13:10",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-08 12:15",
+   "updateTime": "08-08 13:11",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2138,7 +2138,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK - HEROINES EDITION - [EB-03]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/03a72a6748d34d228849b1a9e3c10913.jpg",
@@ -2148,7 +2148,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/51fd7864526c4d3bae0532fe33f91c21.jpg",
@@ -2328,7 +2328,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 14,
+     "qty": 12,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
