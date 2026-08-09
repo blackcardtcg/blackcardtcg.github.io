@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-09T07:08:42.187Z",
+ "updatedAt": "2026-08-09T07:59:36.490Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-09 15:07",
+   "updateTime": "08-09 15:58",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-09 15:07",
+   "updateTime": "08-09 15:59",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-09 15:07",
+   "updateTime": "08-09 15:59",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-09 15:08",
+   "updateTime": "08-09 15:59",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2168,7 +2168,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Shimmering Skies Booster Pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2143d43ecaa94ad596a26b5c4ce2d451.jpg",
@@ -2278,7 +2278,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -2528,7 +2528,7 @@
      "aisle": "065",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
