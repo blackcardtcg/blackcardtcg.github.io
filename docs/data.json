@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-09T07:59:36.490Z",
+ "updatedAt": "2026-08-09T08:54:21.094Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-09 15:58",
+   "updateTime": "08-09 16:53",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-09 15:59",
+   "updateTime": "08-09 16:53",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1010,7 +1010,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 12,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -1240,7 +1240,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-09 15:59",
+   "updateTime": "08-09 16:53",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-09 15:59",
+   "updateTime": "08-09 16:53",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2188,7 +2188,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Reign of Jafar Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/de51885b22e840839ab921d640b54203.jpg",
@@ -2228,7 +2228,7 @@
      "aisle": "029",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
@@ -2248,7 +2248,7 @@
      "aisle": "02B",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
@@ -2278,7 +2278,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -2348,7 +2348,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] POKEMON Chaos Rising Booster Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 340,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a6df2e9432b0402db468cfacdbe11564.jpg",
