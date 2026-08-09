@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-09T13:25:34.794Z",
+ "updatedAt": "2026-08-09T14:06:18.063Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-09 21:24",
+   "updateTime": "08-09 22:05",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-09 21:24",
+   "updateTime": "08-09 22:05",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1170,7 +1170,7 @@
      "aisle": "029",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c8bd3ea2390f48b89fe1a092ca9220bf.jpg",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-09 21:24",
+   "updateTime": "08-09 22:05",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -1639,7 +1639,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1839,7 +1839,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a8fd09e6d7904942a16510e1c7b28b94.png",
@@ -2011,14 +2011,14 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-09 21:24",
+   "updateTime": "08-09 22:05",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -2028,7 +2028,7 @@
      "aisle": "011",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
