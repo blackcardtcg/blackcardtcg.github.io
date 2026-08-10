@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-10T12:29:17.943Z",
+ "updatedAt": "2026-08-10T13:58:20.710Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-10 20:28",
+   "updateTime": "08-10 21:57",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -631,7 +631,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 8,
+     "qty": 7,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-10 20:28",
+   "updateTime": "08-10 21:57",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1030,7 +1030,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -1240,7 +1240,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -1430,7 +1430,7 @@
      "aisle": "055",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-10 20:28",
+   "updateTime": "08-10 21:57",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-10 20:28",
+   "updateTime": "08-10 21:57",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
