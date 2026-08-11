@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-11T03:57:55.762Z",
+ "updatedAt": "2026-08-11T05:13:24.110Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-11 11:57",
+   "updateTime": "08-11 13:12",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-11 11:57",
+   "updateTime": "08-11 13:12",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-11 11:57",
+   "updateTime": "08-11 13:12",
    "supplyTime": "08-04 17:58",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-11 11:57",
+   "updateTime": "08-11 13:12",
    "supplyTime": "08-04 20:04",
    "slots": [
     {
@@ -2168,7 +2168,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Shimmering Skies Booster Pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2143d43ecaa94ad596a26b5c4ce2d451.jpg",
@@ -2238,7 +2238,7 @@
      "aisle": "02A",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/107d10c74d024fec8007ea5ae113a144.jpg",
@@ -2318,7 +2318,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -2328,7 +2328,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
