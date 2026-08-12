@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-12T05:03:22.705Z",
+ "updatedAt": "2026-08-12T06:23:24.607Z",
  "machines": [
   {
    "id": "VCM350CKC20050006",
@@ -584,7 +584,7 @@
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-12 13:03",
+   "updateTime": "08-12 14:22",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -621,7 +621,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -691,7 +691,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -973,7 +973,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-12 13:02",
+   "updateTime": "08-12 14:22",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -1110,7 +1110,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -1552,7 +1552,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-12 13:03",
+   "updateTime": "08-12 14:23",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -2011,7 +2011,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-12 13:03",
+   "updateTime": "08-12 14:23",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -2088,7 +2088,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -2198,7 +2198,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Reign of Jafar Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/de51885b22e840839ab921d640b54203.jpg",
@@ -2258,7 +2258,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [JP] BOOSTER PACK -CROSS FORCE- [FB10]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
@@ -2298,7 +2298,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] POKEMON MEGA NINJA SPINNER [ M4 ]",
      "capacity": 18,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
