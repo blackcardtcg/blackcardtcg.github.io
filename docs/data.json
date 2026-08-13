@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-13T05:08:10.434Z",
+ "updatedAt": "2026-08-13T06:42:46.957Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-13 13:07",
+   "updateTime": "08-13 14:42",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -42,7 +42,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 9,
+     "qty": 7,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ][ English Ver.] Disney Lorcana TCG Attack of the Vine",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb6a8eca391436fbd010d0a60fde100.png",
@@ -394,14 +394,14 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-13 13:07",
+   "updateTime": "08-13 14:42",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 8,
+     "qty": 7,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -841,7 +841,7 @@
      "aisle": "054",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-13 13:07",
+   "updateTime": "08-13 14:42",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-13 13:07",
+   "updateTime": "08-13 14:42",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1719,7 +1719,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] POKEMON MEGA NINJA SPINNER [ M4 ]",
      "capacity": 18,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 165,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fae9feb06caa403eb490b90e2c770c91.jpg",
@@ -1749,7 +1749,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
