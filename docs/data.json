@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-13T13:41:09.253Z",
+ "updatedAt": "2026-08-13T14:44:46.236Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-13 21:40",
+   "updateTime": "08-13 22:43",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-13 21:40",
+   "updateTime": "08-13 22:43",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-13 21:40",
+   "updateTime": "08-13 22:43",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1080,7 +1080,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -1100,7 +1100,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/51fd7864526c4d3bae0532fe33f91c21.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-13 21:40",
+   "updateTime": "08-13 22:44",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
