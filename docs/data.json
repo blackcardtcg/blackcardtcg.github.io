@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-13T08:05:54.643Z",
+ "updatedAt": "2026-08-13T09:21:59.221Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-13 16:05",
+   "updateTime": "08-13 17:21",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ][ English Ver.] Disney Lorcana TCG Attack of the Vine",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb6a8eca391436fbd010d0a60fde100.png",
@@ -112,7 +112,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -132,7 +132,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-13 16:05",
+   "updateTime": "08-13 17:21",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-13 16:05",
+   "updateTime": "08-13 17:21",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-13 16:05",
+   "updateTime": "08-13 17:21",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
