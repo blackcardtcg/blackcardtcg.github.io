@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-14T09:05:50.316Z",
+ "updatedAt": "2026-08-14T10:14:09.096Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-14 17:05",
+   "updateTime": "08-14 18:13",
    "supplyTime": "08-05 23:33",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-14 17:05",
+   "updateTime": "08-14 18:13",
    "supplyTime": "08-06 00:46",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-14 17:04",
+   "updateTime": "08-14 18:13",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-14 17:05",
+   "updateTime": "08-14 18:13",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1579,7 +1579,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Spiritforged Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb43d2f6a1b47c29bcf6165f59cb9a9.jpg",
@@ -1639,7 +1639,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Whisper in the Well",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c59c29a3de01433396a3f3113dda0e7d.jpg",
@@ -1749,7 +1749,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
