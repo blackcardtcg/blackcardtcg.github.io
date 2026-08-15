@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-15T06:36:23.909Z",
+ "updatedAt": "2026-08-15T07:14:47.120Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-15 14:35",
+   "updateTime": "08-15 15:14",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -72,7 +72,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 16,
+     "qty": 13,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-15 14:35",
+   "updateTime": "08-15 15:14",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-15 14:36",
+   "updateTime": "08-15 15:14",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-15 14:35",
+   "updateTime": "08-15 15:14",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1729,7 +1729,7 @@
      "aisle": "035",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
