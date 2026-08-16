@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-16T11:00:58.405Z",
+ "updatedAt": "2026-08-16T11:28:23.304Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-16 19:00",
+   "updateTime": "08-16 19:27",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-16 18:59",
+   "updateTime": "08-16 19:27",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -431,7 +431,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-16 19:00",
+   "updateTime": "08-16 19:28",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-16 19:00",
+   "updateTime": "08-16 19:27",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1709,7 +1709,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
