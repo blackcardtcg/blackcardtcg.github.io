@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-17T10:51:35.624Z",
+ "updatedAt": "2026-08-17T11:13:47.959Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-17 18:50",
+   "updateTime": "08-17 19:13",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-17 18:51",
+   "updateTime": "08-17 19:12",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-17 18:51",
+   "updateTime": "08-17 19:13",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-17 18:51",
+   "updateTime": "08-17 19:12",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1699,7 +1699,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -1759,7 +1759,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] POKEMON Chaos Rising Booster Loose pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 340,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a6df2e9432b0402db468cfacdbe11564.jpg",
@@ -1769,7 +1769,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] POKEMON Chaos Rising Booster Loose pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 340,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a6df2e9432b0402db468cfacdbe11564.jpg",
