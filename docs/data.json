@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-17T17:52:52.625Z",
+ "updatedAt": "2026-08-17T18:22:35.545Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-18 01:51",
+   "updateTime": "08-18 02:22",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-18 01:51",
+   "updateTime": "08-18 02:21",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-18 01:52",
+   "updateTime": "08-18 02:22",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1222,7 +1222,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 450,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c59c29a3de01433396a3f3113dda0e7d.jpg",
      "cat": "LORCANA"
     },
@@ -1232,7 +1232,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 490,
+     "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
      "cat": "LORCANA"
     },
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-18 01:52",
+   "updateTime": "08-18 02:21",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1641,7 +1641,7 @@
      "capacity": 18,
      "qty": 16,
      "status": "Normal",
-     "price": 450,
+     "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c59c29a3de01433396a3f3113dda0e7d.jpg",
      "cat": "LORCANA"
     },
@@ -1651,7 +1651,7 @@
      "capacity": 18,
      "qty": 14,
      "status": "Normal",
-     "price": 490,
+     "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
      "cat": "LORCANA"
     },
