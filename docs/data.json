@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-17T12:59:46.197Z",
+ "updatedAt": "2026-08-17T13:45:32.830Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-17 20:59",
+   "updateTime": "08-17 21:44",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-17 20:59",
+   "updateTime": "08-17 21:44",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-17 20:59",
+   "updateTime": "08-17 21:44",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-17 20:59",
+   "updateTime": "08-17 21:44",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1499,7 +1499,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -1529,7 +1529,7 @@
      "aisle": "019",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1539,7 +1539,7 @@
      "aisle": "01A",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7d8692b1ee1c4ecf9161d43a723b9777.jpg",
@@ -1829,7 +1829,7 @@
      "aisle": "043",
      "name": "[ 1 Box / 24 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 4,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 4790,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
