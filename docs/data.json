@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-18T15:17:11.457Z",
+ "updatedAt": "2026-08-18T15:50:25.158Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-18 23:16",
+   "updateTime": "08-18 23:49",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-18 23:16",
+   "updateTime": "08-18 23:49",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-18 23:16",
+   "updateTime": "08-18 23:49",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1022,7 +1022,7 @@
      "capacity": 18,
      "qty": 16,
      "status": "Normal",
-     "price": 170,
+     "price": 160,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -1032,7 +1032,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 170,
+     "price": 160,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -1042,7 +1042,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 180,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
      "cat": "ONE PIECE"
     },
@@ -1052,7 +1052,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 180,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
      "cat": "ONE PIECE"
     },
@@ -1062,7 +1062,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 220,
+     "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -1072,7 +1072,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 220,
+     "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -1302,7 +1302,7 @@
      "capacity": 4,
      "qty": 1,
      "status": "Normal",
-     "price": 3890,
+     "price": 3800,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c030e929853b486980871999a659d0b8.jpg",
      "cat": "ONE PIECE"
     },
@@ -1312,7 +1312,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 4290,
+     "price": 3900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac06ee03c9fa4440ad3331c364fccfb0.jpg",
      "cat": "ONE PIECE"
     },
@@ -1322,7 +1322,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 4790,
+     "price": 4000,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -1382,7 +1382,7 @@
      "capacity": 8,
      "qty": 2,
      "status": "Normal",
-     "price": 1800,
+     "price": 1600,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/9798490fbc944dcda2a3f97cf2592201.jpg",
      "cat": "YUGIOH"
     },
@@ -1392,7 +1392,7 @@
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
-     "price": 1800,
+     "price": 1600,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/9798490fbc944dcda2a3f97cf2592201.jpg",
      "cat": "YUGIOH"
     },
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-18 23:16",
+   "updateTime": "08-18 23:50",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1441,7 +1441,7 @@
      "capacity": 18,
      "qty": 16,
      "status": "Normal",
-     "price": 180,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
      "cat": "ONE PIECE"
     },
@@ -1451,7 +1451,7 @@
      "capacity": 18,
      "qty": 11,
      "status": "Normal",
-     "price": 180,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
      "cat": "ONE PIECE"
     },
@@ -1461,7 +1461,7 @@
      "capacity": 18,
      "qty": 14,
      "status": "Normal",
-     "price": 180,
+     "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
      "cat": "ONE PIECE"
     },
@@ -1471,7 +1471,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 170,
+     "price": 160,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -1481,7 +1481,7 @@
      "capacity": 18,
      "qty": 14,
      "status": "Normal",
-     "price": 170,
+     "price": 160,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -1491,7 +1491,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 170,
+     "price": 160,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
      "cat": "ONE PIECE"
     },
@@ -1521,7 +1521,7 @@
      "capacity": 18,
      "qty": 16,
      "status": "Normal",
-     "price": 220,
+     "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -1531,7 +1531,7 @@
      "capacity": 18,
      "qty": 13,
      "status": "Normal",
-     "price": 220,
+     "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
      "cat": "ONE PIECE"
     },
@@ -1821,7 +1821,7 @@
      "capacity": 4,
      "qty": 3,
      "status": "Normal",
-     "price": 4790,
+     "price": 4000,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -1831,7 +1831,7 @@
      "capacity": 4,
      "qty": 3,
      "status": "Normal",
-     "price": 4790,
+     "price": 4000,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
     },
@@ -1841,7 +1841,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3890,
+     "price": 3800,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c030e929853b486980871999a659d0b8.jpg",
      "cat": "ONE PIECE"
     },
@@ -1851,7 +1851,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 4290,
+     "price": 3900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac06ee03c9fa4440ad3331c364fccfb0.jpg",
      "cat": "ONE PIECE"
     },
