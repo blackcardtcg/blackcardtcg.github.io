@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-18T11:56:36.003Z",
+ "updatedAt": "2026-08-18T12:45:24.884Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-18 19:56",
+   "updateTime": "08-18 20:44",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -72,7 +72,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-18 19:55",
+   "updateTime": "08-18 20:44",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-18 19:55",
+   "updateTime": "08-18 20:44",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1090,7 +1090,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ] [JP] BOOSTER PACK -CROSS FORCE- [FB10]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
@@ -1410,7 +1410,7 @@
      "aisle": "065",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-18 19:55",
+   "updateTime": "08-18 20:44",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1569,7 +1569,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/51fd7864526c4d3bae0532fe33f91c21.jpg",
@@ -1659,7 +1659,7 @@
      "aisle": "02A",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/107d10c74d024fec8007ea5ae113a144.jpg",
@@ -1789,7 +1789,7 @@
      "aisle": "03B",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/304035d5aed341d7931e49aa197cebdf.jpg",
