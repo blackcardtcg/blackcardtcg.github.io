@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-18T20:09:25.401Z",
+ "updatedAt": "2026-08-18T20:38:58.323Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-19 04:08",
+   "updateTime": "08-19 04:38",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 13,
+     "qty": 11,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-19 04:08",
+   "updateTime": "08-19 04:38",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-19 04:08",
+   "updateTime": "08-19 04:38",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1082,7 +1082,7 @@
      "capacity": 18,
      "qty": 14,
      "status": "Normal",
-     "price": 60,
+     "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
      "cat": "TALINGCHAN"
     },
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-19 04:08",
+   "updateTime": "08-19 04:38",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1701,7 +1701,7 @@
      "capacity": 18,
      "qty": 16,
      "status": "Normal",
-     "price": 60,
+     "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
      "cat": "TALINGCHAN"
     },
@@ -1711,7 +1711,7 @@
      "capacity": 18,
      "qty": 15,
      "status": "Normal",
-     "price": 60,
+     "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
      "cat": "TALINGCHAN"
     },
@@ -1921,7 +1921,7 @@
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
-     "price": 1800,
+     "price": 1600,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/9798490fbc944dcda2a3f97cf2592201.jpg",
      "cat": "YUGIOH"
     },
@@ -1931,7 +1931,7 @@
      "capacity": 8,
      "qty": 3,
      "status": "Normal",
-     "price": 1800,
+     "price": 1600,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/9798490fbc944dcda2a3f97cf2592201.jpg",
      "cat": "YUGIOH"
     },
