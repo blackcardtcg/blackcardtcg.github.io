@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-19T12:41:43.332Z",
+ "updatedAt": "2026-08-19T13:31:11.262Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-19 20:41",
+   "updateTime": "08-19 21:30",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-19 20:40",
+   "updateTime": "08-19 21:30",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-19 20:41",
+   "updateTime": "08-19 20:31",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-19 20:41",
+   "updateTime": "08-19 21:30",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
@@ -1599,7 +1599,7 @@
      "aisle": "024",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Shimmering Skies Booster Pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2143d43ecaa94ad596a26b5c4ce2d451.jpg",
@@ -1649,7 +1649,7 @@
      "aisle": "029",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Winterspell Booster pack",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
@@ -1949,7 +1949,7 @@
      "aisle": "065",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
