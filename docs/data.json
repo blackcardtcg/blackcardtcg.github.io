@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-20T09:15:43.553Z",
+ "updatedAt": "2026-08-20T09:52:32.105Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-20 17:15",
+   "updateTime": "08-20 17:51",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-20 17:15",
+   "updateTime": "08-20 17:51",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-20 17:15",
+   "updateTime": "08-20 17:51",
    "supplyTime": "08-11 17:27",
    "slots": [
     {
@@ -1050,7 +1050,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -1060,7 +1060,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-20 17:14",
+   "updateTime": "08-20 17:51",
    "supplyTime": "08-11 19:19",
    "slots": [
     {
