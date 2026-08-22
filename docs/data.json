@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-22T05:58:13.125Z",
+ "updatedAt": "2026-08-22T06:48:06.498Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-22 13:57",
+   "updateTime": "08-22 14:47",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-22 13:57",
+   "updateTime": "08-22 14:47",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-22 13:57",
+   "updateTime": "08-22 14:47",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1160,7 +1160,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [JP] POKEMON Inferno X Booster Box",
      "capacity": 18,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c12c3cb52edb48b08751cdb007312a8f.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-22 13:57",
+   "updateTime": "08-22 14:47",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
@@ -1449,7 +1449,7 @@
      "aisle": "011",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
