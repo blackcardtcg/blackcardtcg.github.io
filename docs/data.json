@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-23T07:57:23.736Z",
+ "updatedAt": "2026-08-23T08:32:31.247Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-23 15:56",
+   "updateTime": "08-23 16:31",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-23 15:56",
+   "updateTime": "08-23 15:32",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -661,7 +661,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-23 15:56",
+   "updateTime": "08-23 16:31",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1170,7 +1170,7 @@
      "aisle": "029",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-23 15:56",
+   "updateTime": "08-23 16:31",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
@@ -1519,7 +1519,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1529,7 +1529,7 @@
      "aisle": "019",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 13,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1709,7 +1709,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
