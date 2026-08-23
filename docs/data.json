@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-23T07:28:32.640Z",
+ "updatedAt": "2026-08-23T07:57:23.736Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-23 15:27",
+   "updateTime": "08-23 15:56",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -302,7 +302,7 @@
      "aisle": "051",
      "name": "[ 2 PACKS ][ English Ver.] ONE PIECE TCG - THE TIME OF BATTLE- [OP-16] Double Pack Set [DP-11]",
      "capacity": 6,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 1490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dc6f37e8ff0f43eaab8c9e28724f33be.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-23 15:27",
+   "updateTime": "08-23 15:56",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -471,7 +471,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-23 15:27",
+   "updateTime": "08-23 15:56",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1210,7 +1210,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Fabled Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 1660,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-23 15:28",
+   "updateTime": "08-23 15:56",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
