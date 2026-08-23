@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-23T11:32:24.209Z",
+ "updatedAt": "2026-08-23T11:51:49.513Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-23 19:32",
+   "updateTime": "08-23 19:50",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-23 18:32",
+   "updateTime": "08-23 19:51",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -501,7 +501,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [ English Ver.] POKEMON Mega Evolution-Ascended Heroes",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1125566a0a564446928e0fdc48e00df6.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-23 19:31",
+   "updateTime": "08-23 19:51",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1190,7 +1190,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
@@ -1432,14 +1432,14 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-23 19:31",
+   "updateTime": "08-23 19:51",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -1609,7 +1609,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
