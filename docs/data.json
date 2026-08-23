@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-23T13:59:34.746Z",
+ "updatedAt": "2026-08-23T14:31:09.905Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-23 21:59",
+   "updateTime": "08-23 22:30",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-23 21:59",
+   "updateTime": "08-23 22:30",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-23 21:59",
+   "updateTime": "08-23 21:31",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-23 21:58",
+   "updateTime": "08-23 22:30",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
