@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-24T06:25:58.042Z",
+ "updatedAt": "2026-08-24T07:36:45.545Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-24 14:25",
+   "updateTime": "08-24 15:35",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-24 14:25",
+   "updateTime": "08-24 15:35",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -691,7 +691,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-24 14:25",
+   "updateTime": "08-24 15:36",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-24 14:25",
+   "updateTime": "08-24 15:36",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
