@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-24T18:52:37.255Z",
+ "updatedAt": "2026-08-24T19:21:32.707Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-25 02:52",
+   "updateTime": "08-25 03:20",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-25 02:51",
+   "updateTime": "08-25 03:20",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-25 02:52",
+   "updateTime": "08-25 03:20",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1353,7 +1353,7 @@
      "qty": 6,
      "status": "Normal",
      "price": 1200,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/aa475c362e0d401e81dd7864f51ed103.jpg",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/c94673f4beb643b6b13cd376c8460415.jpg",
      "cat": "YUGIOH"
     },
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-25 02:52",
+   "updateTime": "08-25 03:21",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
@@ -1892,7 +1892,7 @@
      "qty": 6,
      "status": "Normal",
      "price": 1200,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/aa475c362e0d401e81dd7864f51ed103.jpg",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/c94673f4beb643b6b13cd376c8460415.jpg",
      "cat": "YUGIOH"
     },
     {
