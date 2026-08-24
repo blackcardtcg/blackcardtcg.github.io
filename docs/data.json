@@ -1,18 +1,18 @@
 {
- "updatedAt": "2026-08-24T13:17:02.003Z",
+ "updatedAt": "2026-08-24T14:06:13.733Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-24 21:16",
-   "supplyTime": "08-24 21:13",
+   "updateTime": "08-24 22:05",
+   "supplyTime": "08-24 21:29",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 18,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -22,7 +22,7 @@
      "aisle": "011",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Wilds Unknown Booster pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 18,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
@@ -32,8 +32,8 @@
      "aisle": "012",
      "name": "[ 1 PACK ][ English Ver.] Disney Lorcana TCG Attack of the Vine",
      "capacity": 18,
-     "qty": 0,
-     "status": "Sold Out",
+     "qty": 18,
+     "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb6a8eca391436fbd010d0a60fde100.png",
      "cat": "LORCANA"
@@ -42,8 +42,8 @@
      "aisle": "013",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Whispers In The Well Booster pack",
      "capacity": 18,
-     "qty": 0,
-     "status": "Sold Out",
+     "qty": 18,
+     "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/f593e43087ab4c938022177ecbc77f89.png",
      "cat": "LORCANA"
@@ -52,8 +52,8 @@
      "aisle": "014",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 0,
-     "status": "Sold Out",
+     "qty": 18,
+     "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
      "cat": "Battle of Talingchan"
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 16,
+     "qty": 18,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -72,8 +72,8 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 0,
-     "status": "Sold Out",
+     "qty": 18,
+     "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
      "cat": "Battle of Talingchan"
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 18,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -102,7 +102,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 12,
+     "qty": 18,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -112,7 +112,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 18,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -120,29 +120,29 @@
     },
     {
      "aisle": "022",
-     "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
-     "capacity": 18,
-     "qty": 18,
-     "status": "Normal",
-     "price": 450,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
-     "cat": "ONE PIECE"
-    },
-    {
-     "aisle": "023",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 18,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
      "cat": "ONE PIECE"
     },
     {
+     "aisle": "023",
+     "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
+     "capacity": 18,
+     "qty": 18,
+     "status": "Normal",
+     "price": 230,
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
+     "cat": "ONE PIECE"
+    },
+    {
      "aisle": "024",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 9,
+     "qty": 18,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -150,42 +150,42 @@
     },
     {
      "aisle": "025",
-     "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
-     "capacity": 18,
-     "qty": 18,
-     "status": "Normal",
-     "price": 230,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
-     "cat": "ONE PIECE"
-    },
-    {
-     "aisle": "026",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 18,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c8bd3ea2390f48b89fe1a092ca9220bf.jpg",
      "cat": "Riftbound"
     },
     {
-     "aisle": "027",
-     "name": "[ 1 PACK ] [EN] Disney Lorcana : Whispers In The Well Booster pack",
-     "capacity": 18,
-     "qty": 18,
-     "status": "Normal",
-     "price": 390,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/f593e43087ab4c938022177ecbc77f89.png",
-     "cat": "LORCANA"
-    },
-    {
-     "aisle": "028",
-     "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
+     "aisle": "026",
+     "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
      "price": 230,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
+     "cat": "ONE PIECE"
+    },
+    {
+     "aisle": "027",
+     "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+     "capacity": 18,
+     "qty": 18,
+     "status": "Normal",
+     "price": 230,
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
+     "cat": "ONE PIECE"
+    },
+    {
+     "aisle": "028",
+     "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+     "capacity": 18,
+     "qty": 18,
+     "status": "Normal",
+     "price": 230,
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
      "cat": "ONE PIECE"
     },
     {
@@ -252,7 +252,7 @@
      "aisle": "041",
      "name": "[ 1 Box / 24 PACK ][ Japan Ver.]ONE PIECE TCG - BOOSTER PACK - Carrying on His Will- [OP-13]",
      "capacity": 4,
-     "qty": 1,
+     "qty": 3,
      "status": "Normal",
      "price": 8990,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/bf23e2390d2e4f5facec82b7d3675ed8.png",
@@ -260,32 +260,32 @@
     },
     {
      "aisle": "042",
-     "name": "[ 1 Box / 24 PACK ][ Japan Ver.]ONE PIECE TCG - BOOSTER PACK - Carrying on His Will- [OP-13]",
-     "capacity": 4,
-     "qty": 1,
-     "status": "Normal",
-     "price": 8990,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/bf23e2390d2e4f5facec82b7d3675ed8.png",
-     "cat": "ONE PIECE"
-    },
-    {
-     "aisle": "043",
-     "name": "[ 1 Box / 24 PACK ][ Japan Ver.]ONE PIECE TCG - BOOSTER PACK - Carrying on His Will- [OP-13]",
-     "capacity": 4,
-     "qty": 1,
-     "status": "Normal",
-     "price": 8990,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/bf23e2390d2e4f5facec82b7d3675ed8.png",
-     "cat": "ONE PIECE"
-    },
-    {
-     "aisle": "044",
      "name": "[ 1 Box / 24 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 4,
      "qty": 1,
      "status": "Normal",
      "price": 4990,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a313162077c446b39257364001103561.png",
+     "cat": "ONE PIECE"
+    },
+    {
+     "aisle": "043",
+     "name": "[ 1 Box ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+     "capacity": 4,
+     "qty": 2,
+     "status": "Normal",
+     "price": 5500,
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/e674d83bbd5a4c7bae45f1ea64b7739e.png",
+     "cat": "ONE PIECE"
+    },
+    {
+     "aisle": "044",
+     "name": "[ 1 Box ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
+     "capacity": 4,
+     "qty": 2,
+     "status": "Normal",
+     "price": 5500,
+     "img": "https://www.worldwidevending-vms.com/upload/commodity/e674d83bbd5a4c7bae45f1ea64b7739e.png",
      "cat": "ONE PIECE"
     },
     {
@@ -394,14 +394,14 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-24 21:16",
+   "updateTime": "08-24 22:05",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-24 21:16",
+   "updateTime": "08-24 22:05",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-24 21:16",
+   "updateTime": "08-24 22:06",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
