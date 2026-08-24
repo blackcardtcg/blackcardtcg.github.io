@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-24T08:24:22.712Z",
+ "updatedAt": "2026-08-24T09:11:58.576Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-24 16:23",
+   "updateTime": "08-24 17:11",
    "supplyTime": "08-14 21:48",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-24 16:23",
+   "updateTime": "08-24 17:11",
    "supplyTime": "08-14 20:24",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-24 16:24",
+   "updateTime": "08-24 17:11",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-24 16:23",
+   "updateTime": "08-24 17:11",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
@@ -1749,7 +1749,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 17,
+     "qty": 11,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
