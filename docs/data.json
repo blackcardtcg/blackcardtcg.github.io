@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-25T09:59:14.699Z",
+ "updatedAt": "2026-08-25T10:40:25.166Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-25 17:58",
+   "updateTime": "08-25 18:39",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -162,7 +162,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-25 17:58",
+   "updateTime": "08-25 18:39",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -681,7 +681,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-25 17:59",
+   "updateTime": "08-25 18:39",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1120,7 +1120,7 @@
      "aisle": "024",
      "name": "[ 1 PACK ] [EN] POKEMON Chaos Rising Booster Loose pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 340,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a6df2e9432b0402db468cfacdbe11564.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-25 16:59",
+   "updateTime": "08-25 18:40",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
