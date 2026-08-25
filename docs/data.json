@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-25T04:43:29.660Z",
+ "updatedAt": "2026-08-25T05:16:43.306Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-25 12:42",
+   "updateTime": "08-25 13:15",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-25 12:43",
+   "updateTime": "08-25 13:15",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -681,7 +681,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -701,7 +701,7 @@
      "aisle": "040",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -711,7 +711,7 @@
      "aisle": "041",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -721,7 +721,7 @@
      "aisle": "042",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -901,7 +901,7 @@
      "aisle": "060",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
@@ -941,7 +941,7 @@
      "aisle": "064",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d8b8048ab4d84d8ab9993863cab267dc.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-25 12:43",
+   "updateTime": "08-25 13:15",
    "supplyTime": "08-20 17:50",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-25 12:43",
+   "updateTime": "08-25 13:15",
    "supplyTime": "08-20 19:43",
    "slots": [
     {
