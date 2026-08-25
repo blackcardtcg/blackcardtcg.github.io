@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-25T12:00:31.195Z",
+ "updatedAt": "2026-08-25T13:03:36.723Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-25 19:59",
+   "updateTime": "08-25 21:02",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -162,7 +162,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 5,
+     "qty": 2,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -272,7 +272,7 @@
      "aisle": "043",
      "name": "[ 1 Box ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 4,
-     "qty": 2,
+     "qty": 1,
      "status": "Normal",
      "price": 5500,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e674d83bbd5a4c7bae45f1ea64b7739e.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-25 19:59",
+   "updateTime": "08-25 21:03",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-25 19:59",
+   "updateTime": "08-25 21:03",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1020,7 +1020,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 13,
+     "qty": 11,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1160,7 +1160,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [JP] YUGIOH! - BEYOND THE BRAVEF",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5831ba42525d4b9880fa97b7ee18ea16.jpg",
@@ -1170,7 +1170,7 @@
      "aisle": "029",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-25 20:00",
+   "updateTime": "08-25 21:03",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
@@ -1479,7 +1479,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 18,
+     "qty": 12,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1489,7 +1489,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 17,
+     "qty": 13,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1499,7 +1499,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
