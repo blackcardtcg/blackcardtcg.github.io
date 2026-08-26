@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-26T11:48:15.115Z",
+ "updatedAt": "2026-08-26T12:19:49.377Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-26 19:47",
+   "updateTime": "08-26 20:18",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -172,7 +172,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-26 19:47",
+   "updateTime": "08-26 20:19",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-26 19:48",
+   "updateTime": "08-26 20:19",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-26 19:48",
+   "updateTime": "08-26 20:19",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
@@ -1719,7 +1719,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] YUGIOH! - UTILITY SELECTION",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 110,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e6e8958219114b29a1ef9b7e922e4659.jpg",
@@ -1729,7 +1729,7 @@
      "aisle": "035",
      "name": "[ 1 PACK ] [JP] YUGIOH! - LIMITED PACK GX RA YELLOW",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7e108b3f068340d09b14dda43d8b2c70.jpg",
