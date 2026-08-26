@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-26T09:23:27.678Z",
+ "updatedAt": "2026-08-26T10:04:20.880Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-26 17:22",
+   "updateTime": "08-26 18:03",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -132,7 +132,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -172,7 +172,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-26 17:22",
+   "updateTime": "08-26 18:03",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -531,7 +531,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [ English Ver. ] POKEMON Mega Evolution—Chaos Rising Booster Pack",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 370,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f9a64ca9ba9459ebd83a20684ca88a5.png",
@@ -661,7 +661,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-26 17:23",
+   "updateTime": "08-26 18:04",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-26 17:23",
+   "updateTime": "08-26 18:04",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
