@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-26T08:36:45.108Z",
+ "updatedAt": "2026-08-26T09:23:27.678Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-26 16:36",
+   "updateTime": "08-26 17:22",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -122,7 +122,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -132,7 +132,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-26 16:36",
+   "updateTime": "08-26 17:22",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-26 16:36",
+   "updateTime": "08-26 17:23",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1020,8 +1020,8 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 4,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
      "cat": "ONE PIECE"
@@ -1180,7 +1180,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Shimmering Skies Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2143d43ecaa94ad596a26b5c4ce2d451.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-26 16:36",
+   "updateTime": "08-26 17:23",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
@@ -1489,7 +1489,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 9,
+     "qty": 7,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
