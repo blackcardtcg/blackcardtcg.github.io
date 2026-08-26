@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-26T07:03:17.167Z",
+ "updatedAt": "2026-08-26T07:54:36.962Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-26 15:02",
+   "updateTime": "08-26 15:54",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -172,7 +172,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-26 15:02",
+   "updateTime": "08-26 15:53",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -431,7 +431,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-26 15:02",
+   "updateTime": "08-26 15:53",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1000,7 +1000,7 @@
      "aisle": "012",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -1250,7 +1250,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/107d10c74d024fec8007ea5ae113a144.jpg",
@@ -1260,7 +1260,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8adbe32de4b54a458491c1818794036d.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-26 15:02",
+   "updateTime": "08-26 15:54",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
@@ -1479,7 +1479,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 9,
+     "qty": 8,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
