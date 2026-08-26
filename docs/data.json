@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-26T10:47:59.312Z",
+ "updatedAt": "2026-08-26T11:15:26.847Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-26 18:47",
+   "updateTime": "08-26 19:14",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-26 18:47",
+   "updateTime": "08-26 19:14",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -721,7 +721,7 @@
      "aisle": "042",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-26 18:47",
+   "updateTime": "08-26 19:15",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-26 18:47",
+   "updateTime": "08-26 19:15",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
