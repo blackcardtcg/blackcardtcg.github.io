@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-29T13:16:17.888Z",
+ "updatedAt": "2026-08-29T17:12:16.081Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-29 21:15",
+   "updateTime": "08-30 01:11",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -132,7 +132,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-29 21:15",
+   "updateTime": "08-30 01:11",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-29 21:15",
+   "updateTime": "08-30 01:11",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-29 21:15",
+   "updateTime": "08-30 01:11",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
@@ -1579,7 +1579,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Spiritforged Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb43d2f6a1b47c29bcf6165f59cb9a9.jpg",
