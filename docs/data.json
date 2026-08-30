@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-08-30T00:06:29.772Z",
+ "updatedAt": "2026-08-30T05:18:58.010Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "08-30 08:06",
+   "updateTime": "08-30 13:18",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -292,7 +292,7 @@
      "aisle": "050",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d8b8048ab4d84d8ab9993863cab267dc.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "08-30 08:05",
+   "updateTime": "08-30 13:18",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "08-30 08:05",
+   "updateTime": "08-30 13:18",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1040,7 +1040,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -1060,7 +1060,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 10,
+     "qty": 6,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "08-30 08:05",
+   "updateTime": "08-30 13:18",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
