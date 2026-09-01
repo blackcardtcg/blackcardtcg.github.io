@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-01T00:26:32.719Z",
+ "updatedAt": "2026-09-01T05:28:41.380Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-01 08:26",
+   "updateTime": "09-01 13:27",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "09-01 08:25",
+   "updateTime": "09-01 13:27",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -701,7 +701,7 @@
      "aisle": "040",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-01 08:26",
+   "updateTime": "09-01 13:27",
    "supplyTime": "08-25 16:12",
    "slots": [
     {
@@ -1170,7 +1170,7 @@
      "aisle": "029",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-01 08:25",
+   "updateTime": "09-01 13:28",
    "supplyTime": "08-25 18:06",
    "slots": [
     {
@@ -1629,7 +1629,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Fabled Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 1660,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
