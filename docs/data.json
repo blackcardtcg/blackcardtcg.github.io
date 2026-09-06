@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-06T01:03:00.828Z",
+ "updatedAt": "2026-09-06T05:49:51.994Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-06 09:02",
+   "updateTime": "09-06 13:49",
    "supplyTime": "08-24 21:29",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "09-06 09:02",
+   "updateTime": "09-06 12:49",
    "supplyTime": "08-24 20:03",
    "slots": [
     {
@@ -661,7 +661,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -711,7 +711,7 @@
      "aisle": "041",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-06 09:02",
+   "updateTime": "09-06 13:49",
    "supplyTime": "09-04 15:50",
    "slots": [
     {
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-06 09:02",
+   "updateTime": "09-06 13:49",
    "supplyTime": "09-04 18:21",
    "slots": [
     {
@@ -1479,7 +1479,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 7,
+     "qty": 5,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1499,7 +1499,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 10,
+     "qty": 8,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
