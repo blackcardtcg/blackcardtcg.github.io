@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-10T13:47:57.179Z",
+ "updatedAt": "2026-09-10T17:17:55.803Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-10 21:46",
+   "updateTime": "09-11 01:17",
    "supplyTime": "09-08 21:57",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "09-10 21:47",
+   "updateTime": "09-11 01:17",
    "supplyTime": "09-08 20:42",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-10 21:47",
+   "updateTime": "09-11 01:17",
    "supplyTime": "09-07 12:07",
    "slots": [
     {
@@ -1200,7 +1200,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Reign of Jafar Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/de51885b22e840839ab921d640b54203.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-10 21:47",
+   "updateTime": "09-11 01:17",
    "supplyTime": "09-07 13:36",
    "slots": [
     {
