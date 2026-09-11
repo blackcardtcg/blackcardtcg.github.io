@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-11T12:52:29.444Z",
+ "updatedAt": "2026-09-11T16:48:59.497Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-11 20:52",
+   "updateTime": "09-12 00:48",
    "supplyTime": "09-08 21:57",
    "slots": [
     {
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "09-11 20:51",
+   "updateTime": "09-12 00:47",
    "supplyTime": "09-08 20:42",
    "slots": [
     {
@@ -431,7 +431,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-11 20:52",
+   "updateTime": "09-12 00:48",
    "supplyTime": "09-07 12:07",
    "slots": [
     {
@@ -1240,7 +1240,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Attack of the vine",
      "capacity": 18,
-     "qty": 13,
+     "qty": 10,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/107d10c74d024fec8007ea5ae113a144.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-11 20:51",
+   "updateTime": "09-12 00:48",
    "supplyTime": "09-07 13:36",
    "slots": [
     {
@@ -1589,7 +1589,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8adbe32de4b54a458491c1818794036d.jpg",
@@ -1609,7 +1609,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Archazia's Island Booster Pack",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6d9c2bc7c953449e91c8183ce99656a6.jpg",
