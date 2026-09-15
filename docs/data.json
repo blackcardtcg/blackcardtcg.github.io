@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-15T00:51:15.213Z",
+ "updatedAt": "2026-09-15T05:30:02.388Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-15 08:50",
+   "updateTime": "09-15 13:29",
    "supplyTime": "09-08 21:57",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM650CKN18090008",
    "site": "เซ็นทรัล นครปฐม ชั้น 2",
    "route": "อ.เมือง",
-   "updateTime": "09-15 08:50",
+   "updateTime": "09-15 13:29",
    "supplyTime": "09-08 20:42",
    "slots": [
     {
@@ -973,7 +973,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-15 08:51",
+   "updateTime": "09-15 13:29",
    "supplyTime": "09-12 14:21",
    "slots": [
     {
@@ -1020,7 +1020,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1432,7 +1432,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-15 08:50",
+   "updateTime": "09-15 13:29",
    "supplyTime": "09-07 13:36",
    "slots": [
     {
@@ -1619,7 +1619,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Reign of Jafar Booster Pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/de51885b22e840839ab921d640b54203.jpg",
