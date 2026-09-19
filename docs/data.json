@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-19T13:05:32.914Z",
+ "updatedAt": "2026-09-19T16:24:35.639Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-19 21:04",
+   "updateTime": "09-20 00:23",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -32,7 +32,7 @@
      "aisle": "012",
      "name": "[ 1 PACK ][ English Ver.] Disney Lorcana TCG Attack of the Vine",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 420,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb6a8eca391436fbd010d0a60fde100.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-19 21:04",
+   "updateTime": "09-20 00:24",
    "supplyTime": "09-17 16:20",
    "slots": [
     {
@@ -821,7 +821,7 @@
      "aisle": "064",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eda44f0e83064cf68a3a5bea7e8264fa.png",
@@ -831,7 +831,7 @@
      "aisle": "065",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-19 21:05",
+   "updateTime": "09-20 00:23",
    "supplyTime": "09-17 19:05",
    "slots": [
     {
@@ -1130,8 +1130,8 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [JP] YUGIOH! - BEYOND THE BRAVEF",
      "capacity": 18,
-     "qty": 4,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5831ba42525d4b9880fa97b7ee18ea16.jpg",
      "cat": "YUGIOH"
