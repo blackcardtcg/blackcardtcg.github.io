@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-20T00:37:47.509Z",
+ "updatedAt": "2026-09-20T05:23:41.515Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-20 08:37",
+   "updateTime": "09-20 13:22",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -72,7 +72,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 9,
+     "qty": 8,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -292,7 +292,7 @@
      "aisle": "050",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 2,
+     "qty": 1,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d8b8048ab4d84d8ab9993863cab267dc.png",
@@ -372,7 +372,7 @@
      "aisle": "065",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
@@ -382,8 +382,8 @@
      "aisle": "066",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
      "cat": "Blue Berry"
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-20 08:37",
+   "updateTime": "09-20 13:23",
    "supplyTime": "09-17 16:20",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-20 08:37",
+   "updateTime": "09-20 13:23",
    "supplyTime": "09-17 19:05",
    "slots": [
     {
@@ -1110,7 +1110,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -1140,7 +1140,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] YUGIOH! - UTILITY SELECTION",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 110,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e6e8958219114b29a1ef9b7e922e4659.jpg",
@@ -1150,7 +1150,7 @@
      "aisle": "035",
      "name": "[ 1 PACK ] [JP] YUGIOH! - LIMITED PACK GX RA YELLOW",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7e108b3f068340d09b14dda43d8b2c70.jpg",
