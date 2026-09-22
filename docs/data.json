@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-22T06:12:10.852Z",
+ "updatedAt": "2026-09-22T11:39:55.945Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-22 14:11",
+   "updateTime": "09-22 19:38",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-22 14:11",
+   "updateTime": "09-22 19:39",
    "supplyTime": "09-17 16:20",
    "slots": [
     {
@@ -441,7 +441,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -681,7 +681,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8adbe32de4b54a458491c1818794036d.jpg",
@@ -753,7 +753,7 @@
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
-     "price": 1190,
+     "price": 1050,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac1417a3662540d8b35d1c738bfd3f44.jpg",
      "cat": "YUGIOH"
     },
@@ -763,7 +763,7 @@
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
-     "price": 1200,
+     "price": 115,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ca1bdb86cebc44d09e20145f8eccc5b6.jpg",
      "cat": "YUGIOH"
     },
@@ -773,7 +773,7 @@
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
-     "price": 1200,
+     "price": 1350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c94673f4beb643b6b13cd376c8460415.jpg",
      "cat": "YUGIOH"
     },
@@ -783,7 +783,7 @@
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
-     "price": 1390,
+     "price": 1290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fc2e435f217e4614bd8454577a3a3330.jpg",
      "cat": "YUGIOH"
     },
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-22 14:11",
+   "updateTime": "09-22 19:39",
    "supplyTime": "09-17 19:05",
    "slots": [
     {
@@ -1010,7 +1010,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8adbe32de4b54a458491c1818794036d.jpg",
@@ -1120,7 +1120,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
@@ -1282,7 +1282,7 @@
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
-     "price": 1190,
+     "price": 1050,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac1417a3662540d8b35d1c738bfd3f44.jpg",
      "cat": "YUGIOH"
     },
@@ -1292,7 +1292,7 @@
      "capacity": 6,
      "qty": 5,
      "status": "Normal",
-     "price": 1200,
+     "price": 1150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ca1bdb86cebc44d09e20145f8eccc5b6.jpg",
      "cat": "YUGIOH"
     },
@@ -1302,7 +1302,7 @@
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
-     "price": 1200,
+     "price": 1350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c94673f4beb643b6b13cd376c8460415.jpg",
      "cat": "YUGIOH"
     },
@@ -1312,7 +1312,7 @@
      "capacity": 6,
      "qty": 4,
      "status": "Normal",
-     "price": 1390,
+     "price": 1290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/fc2e435f217e4614bd8454577a3a3330.jpg",
      "cat": "YUGIOH"
     },
@@ -1322,7 +1322,7 @@
      "capacity": 6,
      "qty": 6,
      "status": "Normal",
-     "price": 1690,
+     "price": 1660,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/bcdc2234ae474e49b13c32127a27a1fb.jpg",
      "cat": "YUGIOH"
     },
@@ -1332,7 +1332,7 @@
      "capacity": 6,
      "qty": 3,
      "status": "Normal",
-     "price": 1000,
+     "price": 1200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/02ab78a25a844229b0287f102f2974c6.jpg",
      "cat": "YUGIOH"
     },
