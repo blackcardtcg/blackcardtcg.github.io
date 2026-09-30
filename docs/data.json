@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-30T01:37:10.339Z",
+ "updatedAt": "2026-09-30T07:25:40.657Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-30 09:36",
+   "updateTime": "09-30 15:25",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -72,8 +72,8 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
      "cat": "Battle of Talingchan"
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-30 09:36",
+   "updateTime": "09-30 15:24",
    "supplyTime": "09-23 21:23",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-30 09:36",
+   "updateTime": "09-30 15:25",
    "supplyTime": "09-29 20:03",
    "slots": [
     {
@@ -900,7 +900,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1170,7 +1170,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [TH] POKEMON 30TH CELEBRATION Booster Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 7,
      "status": "Normal",
      "price": 99,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfbfc5be0f764ee2b842300936d9a622.png",
