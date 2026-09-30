@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-09-30T14:03:59.001Z",
+ "updatedAt": "2026-09-30T19:10:17.960Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "09-30 22:03",
+   "updateTime": "10-01 03:10",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "09-30 22:03",
+   "updateTime": "10-01 03:09",
    "supplyTime": "09-23 21:23",
    "slots": [
     {
@@ -431,7 +431,7 @@
      "aisle": "013",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -The Azure Sea’s Seven- [OP-14]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 160,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/dfd2e82664df423f89ce3b50e9f9f262.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "09-30 22:03",
+   "updateTime": "10-01 03:09",
    "supplyTime": "09-29 20:03",
    "slots": [
     {
@@ -1130,7 +1130,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 15,
+     "qty": 13,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
