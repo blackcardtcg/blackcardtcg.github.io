@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-03T00:22:21.334Z",
+ "updatedAt": "2026-10-03T05:30:40.640Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-03 08:22",
+   "updateTime": "10-03 13:30",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-03 08:21",
+   "updateTime": "10-03 13:30",
    "supplyTime": "09-23 21:23",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-03 08:22",
+   "updateTime": "10-03 13:30",
    "supplyTime": "09-29 20:03",
    "slots": [
     {
@@ -950,7 +950,7 @@
      "aisle": "019",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1180,7 +1180,7 @@
      "aisle": "038",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
