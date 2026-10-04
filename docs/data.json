@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-04T05:39:53.902Z",
+ "updatedAt": "2026-10-04T11:17:24.178Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-04 13:38",
+   "updateTime": "10-04 19:16",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -112,7 +112,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -372,7 +372,7 @@
      "aisle": "065",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-04 13:39",
+   "updateTime": "10-04 19:16",
    "supplyTime": "09-23 21:23",
    "slots": [
     {
@@ -481,7 +481,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -853,14 +853,14 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-04 13:39",
+   "updateTime": "10-04 19:16",
    "supplyTime": "09-29 20:03",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -940,7 +940,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 180,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
@@ -1120,7 +1120,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ][ JP VER. ] DRAGONBALL FUSION WORLD BOOSTER PACK FB-11",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/31b6b941d7314926981f700bd275d2b6.png",
