@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-05T00:44:41.418Z",
+ "updatedAt": "2026-10-05T06:17:46.046Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-05 08:43",
+   "updateTime": "10-05 14:17",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-05 08:44",
+   "updateTime": "10-05 14:17",
    "supplyTime": "09-23 21:23",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-05 08:44",
+   "updateTime": "10-05 14:17",
    "supplyTime": "09-29 20:03",
    "slots": [
     {
@@ -910,7 +910,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -980,7 +980,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK - HEROINES EDITION - [EB-03]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 650,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/03a72a6748d34d228849b1a9e3c10913.jpg",
@@ -1130,7 +1130,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 9,
+     "qty": 8,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
