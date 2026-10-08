@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-08T02:46:49.741Z",
+ "updatedAt": "2026-10-08T09:32:20.231Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-08 10:46",
+   "updateTime": "10-08 17:32",
    "supplyTime": "09-15 21:24",
    "slots": [
     {
@@ -112,7 +112,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 12,
+     "qty": 10,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-08 10:46",
+   "updateTime": "10-08 17:31",
    "supplyTime": "10-07 20:10",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-08 10:46",
+   "updateTime": "10-08 17:31",
    "supplyTime": "09-29 20:03",
    "slots": [
     {
@@ -900,7 +900,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -910,7 +910,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1120,7 +1120,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ][ JP VER. ] DRAGONBALL FUSION WORLD BOOSTER PACK FB-11",
      "capacity": 18,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/31b6b941d7314926981f700bd275d2b6.png",
