@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-09T01:26:05.689Z",
+ "updatedAt": "2026-10-09T07:45:30.455Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-09 09:25",
+   "updateTime": "10-09 15:44",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-09 09:25",
+   "updateTime": "10-09 15:44",
    "supplyTime": "10-07 20:10",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-09 09:25",
+   "updateTime": "10-09 15:44",
    "supplyTime": "10-08 20:18",
    "slots": [
     {
@@ -1000,7 +1000,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Unleashed Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/452f48e894ed450186b61fe74c93ede2.png",
@@ -1070,7 +1070,7 @@
      "aisle": "029",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Winterspell Booster pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
