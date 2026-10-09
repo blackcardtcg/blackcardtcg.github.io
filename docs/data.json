@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-09T07:45:30.455Z",
+ "updatedAt": "2026-10-09T14:42:05.475Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-09 15:44",
+   "updateTime": "10-09 22:41",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-09 15:44",
+   "updateTime": "10-09 22:41",
    "supplyTime": "10-07 20:10",
    "slots": [
     {
@@ -441,7 +441,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 18,
+     "qty": 14,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -501,7 +501,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -511,7 +511,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ][ THAI VER. ] BATTLE OF TALINGCHAN BT11 JOURNEY TO นคร Z BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/0e3c259573c44c308da5540a02d0a2cc.png",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-09 15:44",
+   "updateTime": "10-09 22:41",
    "supplyTime": "10-08 20:18",
    "slots": [
     {
@@ -1120,7 +1120,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ][ JP VER. ] DRAGONBALL FUSION WORLD BOOSTER PACK FB-11",
      "capacity": 18,
-     "qty": 18,
+     "qty": 14,
      "status": "Normal",
      "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/31b6b941d7314926981f700bd275d2b6.png",
@@ -1160,7 +1160,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [JP] YUGIOH! - LIMITED PACK GX RA YELLOW",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 120,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7e108b3f068340d09b14dda43d8b2c70.jpg",
