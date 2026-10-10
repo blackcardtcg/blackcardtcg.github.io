@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-10T09:04:40.312Z",
+ "updatedAt": "2026-10-10T15:17:53.097Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-10 17:03",
+   "updateTime": "10-10 23:17",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-10 17:04",
+   "updateTime": "10-10 23:17",
    "supplyTime": "10-07 20:10",
    "slots": [
     {
@@ -521,7 +521,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8adbe32de4b54a458491c1818794036d.jpg",
@@ -631,7 +631,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Fabled Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 1600,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
@@ -641,7 +641,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Whisper in the Well",
      "capacity": 18,
-     "qty": 18,
+     "qty": 15,
      "status": "Normal",
      "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c59c29a3de01433396a3f3113dda0e7d.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-10 17:04",
+   "updateTime": "10-10 23:17",
    "supplyTime": "10-08 20:18",
    "slots": [
     {
@@ -900,7 +900,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -980,8 +980,8 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 10,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8adbe32de4b54a458491c1818794036d.jpg",
      "cat": "Riftbound"
@@ -1130,7 +1130,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
@@ -1150,7 +1150,7 @@
      "aisle": "035",
      "name": "[ 1 PACK ] [JP] YUGIOH! - UTILITY SELECTION",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 110,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e6e8958219114b29a1ef9b7e922e4659.jpg",
@@ -1160,7 +1160,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [JP] YUGIOH! - LIMITED PACK GX RA YELLOW",
      "capacity": 18,
-     "qty": 15,
+     "qty": 13,
      "status": "Normal",
      "price": 120,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7e108b3f068340d09b14dda43d8b2c70.jpg",
