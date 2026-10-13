@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-13T11:34:00.758Z",
+ "updatedAt": "2026-10-13T18:29:09.524Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-13 19:33",
+   "updateTime": "10-14 02:28",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-13 19:33",
+   "updateTime": "10-14 02:28",
    "supplyTime": "10-07 20:10",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-13 19:33",
+   "updateTime": "10-14 02:28",
    "supplyTime": "10-08 20:18",
    "slots": [
     {
@@ -1190,7 +1190,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1200,7 +1200,7 @@
      "aisle": "03A",
      "name": "[ 1 PACK ] [EN] POKEMON Chaos Rising Booster Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 340,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a6df2e9432b0402db468cfacdbe11564.jpg",
