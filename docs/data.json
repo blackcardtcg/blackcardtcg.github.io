@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-14T12:28:13.038Z",
+ "updatedAt": "2026-10-14T17:30:01.800Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-14 20:27",
+   "updateTime": "10-15 01:29",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -162,7 +162,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -172,7 +172,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 9,
+     "qty": 7,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-14 20:27",
+   "updateTime": "10-15 01:29",
    "supplyTime": "10-07 20:10",
    "slots": [
     {
@@ -641,7 +641,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Whisper in the Well",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c59c29a3de01433396a3f3113dda0e7d.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-14 20:27",
+   "updateTime": "10-15 01:29",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
