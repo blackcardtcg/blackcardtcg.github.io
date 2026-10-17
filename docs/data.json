@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-17T07:00:42.729Z",
+ "updatedAt": "2026-10-17T11:32:31.048Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-17 14:59",
+   "updateTime": "10-17 19:32",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -292,7 +292,7 @@
      "aisle": "050",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d8b8048ab4d84d8ab9993863cab267dc.png",
@@ -372,7 +372,7 @@
      "aisle": "065",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-17 15:00",
+   "updateTime": "10-17 19:31",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-17 15:00",
+   "updateTime": "10-17 19:32",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
@@ -1040,7 +1040,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Reign of Jafar Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/de51885b22e840839ab921d640b54203.jpg",
@@ -1060,7 +1060,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Whisper in the Well",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c59c29a3de01433396a3f3113dda0e7d.jpg",
@@ -1070,7 +1070,7 @@
      "aisle": "029",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Winterspell Booster pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d1c342c65d8347d7ae385c47616cef16.jpg",
@@ -1180,7 +1180,7 @@
      "aisle": "038",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
@@ -1190,7 +1190,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 18,
+     "qty": 15,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1200,7 +1200,7 @@
      "aisle": "03A",
      "name": "[ 1 PACK ] [EN] POKEMON Chaos Rising Booster Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 340,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a6df2e9432b0402db468cfacdbe11564.jpg",
