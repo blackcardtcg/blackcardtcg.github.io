@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-18T01:24:39.823Z",
+ "updatedAt": "2026-10-18T06:17:17.333Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-18 09:23",
+   "updateTime": "10-18 14:16",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -122,7 +122,7 @@
      "aisle": "022",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Emperors in the New World- [OP-09]",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/35ff5896ddb748e0953306a0aef0570b.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-18 09:23",
+   "updateTime": "10-18 14:16",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -853,14 +853,14 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-18 09:23",
+   "updateTime": "10-18 14:16",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 170,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/357682fd3ea8431ca23caefb37055191.jpg",
@@ -910,7 +910,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -1130,7 +1130,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
