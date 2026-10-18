@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-18T11:21:51.115Z",
+ "updatedAt": "2026-10-18T14:41:38.297Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-18 19:21",
+   "updateTime": "10-18 22:40",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -132,7 +132,7 @@
      "aisle": "023",
      "name": "[ 1 PACK ][ Janpan Ver.] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/65b7504e2a69427999364b32f1652990.png",
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-18 19:21",
+   "updateTime": "10-18 22:41",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-18 19:21",
+   "updateTime": "10-18 22:40",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
@@ -1090,7 +1090,7 @@
      "aisle": "02B",
      "name": "[ 1 PACK ] [JP] YUGIOH! CHAOS ORIGINS Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ff25471ccfae4e79be59bb7460acc127.png",
@@ -1100,7 +1100,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -1110,7 +1110,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ][ THAI VER. ] BATTLE OF TALINGCHAN BT11 JOURNEY TO นคร Z BOOSTER PACK",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/0e3c259573c44c308da5540a02d0a2cc.png",
@@ -1120,7 +1120,7 @@
      "aisle": "032",
      "name": "[ 1 PACK ][ JP VER. ] DRAGONBALL FUSION WORLD BOOSTER PACK FB-11",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/31b6b941d7314926981f700bd275d2b6.png",
