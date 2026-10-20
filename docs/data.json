@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-20T02:03:17.229Z",
+ "updatedAt": "2026-10-20T07:25:45.116Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-20 10:02",
+   "updateTime": "10-20 15:25",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-20 10:03",
+   "updateTime": "10-20 15:25",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-20 10:03",
+   "updateTime": "10-20 15:25",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
@@ -920,7 +920,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6f29939b7a9843aaa38551e5a6080797.jpg",
@@ -1100,7 +1100,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [Thai] Battle of Talingchan : BT10 อันธการไร้นาม",
      "capacity": 18,
-     "qty": 17,
+     "qty": 14,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e9a1a297839342699682d20424229ca5.jpg",
@@ -1190,7 +1190,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1380,7 +1380,7 @@
      "aisle": "066",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
