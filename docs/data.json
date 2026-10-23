@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-23T04:43:02.587Z",
+ "updatedAt": "2026-10-23T09:36:37.354Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-23 12:42",
+   "updateTime": "10-23 17:35",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -102,7 +102,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ][ Japan Ver.] ONE PIECE TCG - BOOSTER PACK -Carrying on His Will- [OP-13]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 450,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2e66767356524d43abcc83d6fa69946f.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-23 12:42",
+   "updateTime": "10-23 17:35",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -481,7 +481,7 @@
      "aisle": "018",
      "name": "[ 1 PACK ] [EN] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 350,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/51fd7864526c4d3bae0532fe33f91c21.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-23 12:32",
+   "updateTime": "10-23 17:36",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
@@ -1140,7 +1140,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] YUGIOH! - BEYOND THE BRAVEF",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5831ba42525d4b9880fa97b7ee18ea16.jpg",
@@ -1180,7 +1180,7 @@
      "aisle": "038",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
@@ -1190,7 +1190,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -1360,7 +1360,7 @@
      "aisle": "064",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eda44f0e83064cf68a3a5bea7e8264fa.png",
