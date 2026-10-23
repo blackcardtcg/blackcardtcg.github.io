@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-23T09:36:37.354Z",
+ "updatedAt": "2026-10-23T14:25:06.042Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-23 17:35",
+   "updateTime": "10-23 22:24",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-23 17:35",
+   "updateTime": "10-23 22:24",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -681,7 +681,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [JP] YUGIOH! - BEYOND THE BRAVEF",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5831ba42525d4b9880fa97b7ee18ea16.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-23 17:36",
+   "updateTime": "10-23 22:24",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
@@ -1170,7 +1170,7 @@
      "aisle": "037",
      "name": "[ 1 PACK ] [TH] POKEMON เงามืดคุคาม Booster Pack",
      "capacity": 18,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 49,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e978d16ddba54b7e9c01690be4c910e2.png",
@@ -1180,7 +1180,7 @@
      "aisle": "038",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 12,
+     "qty": 10,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
