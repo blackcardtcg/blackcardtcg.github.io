@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-26T01:34:54.438Z",
+ "updatedAt": "2026-10-26T06:54:34.199Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-26 09:34",
+   "updateTime": "10-26 14:54",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-26 09:34",
+   "updateTime": "10-26 14:54",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -691,7 +691,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-26 09:34",
+   "updateTime": "10-26 14:54",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
@@ -1090,7 +1090,7 @@
      "aisle": "02B",
      "name": "[ 1 PACK ] [JP] YUGIOH! CHAOS ORIGINS Booster Pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ff25471ccfae4e79be59bb7460acc127.png",
@@ -1140,7 +1140,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] YUGIOH! - BEYOND THE BRAVEF",
      "capacity": 18,
-     "qty": 7,
+     "qty": 6,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5831ba42525d4b9880fa97b7ee18ea16.jpg",
@@ -1350,7 +1350,7 @@
      "aisle": "062",
      "name": "[ 1 BOX ] [ENG] YUGIOH! CHAOS ORIGINS",
      "capacity": 8,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 1600,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/89f8adb417f647349fd6e68d7e2d2749.jpg",
