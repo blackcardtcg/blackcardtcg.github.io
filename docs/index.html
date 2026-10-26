@@ -276,14 +276,24 @@ const siteArea=m=>siteInfo(m).area||m.route||'';
 const mapUrl=m=>'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(siteInfo(m).map||m.site||'');
 
 /* รวมชื่อหมวดที่เขียนต่างกันในแต่ละตู้ให้เป็นชื่อเดียว */
-const CAT_ALIAS={'battle of talingchan':'TALINGCHAN','talingchan':'TALINGCHAN','yu-gi-oh':'YUGIOH','dragon ball':'DRAGONBALL'};
-const normCat=c=>{if(!c)return '';const k=String(c).trim().toLowerCase();return CAT_ALIAS[k]||String(c).trim().toUpperCase();};
+/* เทียบแบบตัดช่องว่าง/เครื่องหมายออก: "ONEPIECE" = "ONE PIECE", "YUGIOH!" = "YUGIOH" */
+const CAT_ALIAS={battleoftalingchan:'TALINGCHAN',talingchan:'TALINGCHAN',yugioh:'YUGIOH',dragonball:'DRAGONBALL',onepiece:'ONE PIECE',pokemon:'POKEMON',lorcana:'LORCANA',riftbound:'RIFTBOUND',blueberry:'BLUE BERRY'};
+const normCat=c=>{if(!c)return '';const k=String(c).toLowerCase().replace(/[^a-z0-9ก-๙]/g,'');return CAT_ALIAS[k]||String(c).trim().toUpperCase();};
+/* ป้ายภาษาเขียนหลายแบบ ("Eng ver.", "Janpan Ver.") ให้เหลือ EN / JP / TH ฯลฯ */
+const normTag=t=>{const k=String(t).toLowerCase().replace(/\bver(sion)?\b\.?/g,'').replace(/[^a-z0-9/ ]/g,' ').replace(/\s+/g,' ').trim();
+  if(/^(en|eng|english)$/.test(k))return 'EN';
+  if(/^(jp|jpn|jap|japan|janpan|japanese)$/.test(k))return 'JP';
+  if(/^(th|thai)$/.test(k))return 'TH';
+  if(/^(cn|chn|chinese|sc|tc)$/.test(k))return 'CN';
+  if(/^(kr|kor|korean)$/.test(k))return 'KR';
+  return String(t).replace(/\s+/g,' ').trim().toUpperCase();};
 
 /* แยก [ 1 PACK ] [EN] ออกจากชื่อ ให้ชื่อจริงอ่านได้เต็ม */
 function splitName(n){
   const tags=[]; let rest=String(n||'');
   let m; const re=/^\s*\[\s*([^\]]+?)\s*\]/;
-  while((m=rest.match(re))){tags.push(m[1]);rest=rest.slice(m[0].length);}
+  while((m=rest.match(re))){tags.push(normTag(m[1]));rest=rest.slice(m[0].length);}
+  rest=rest.replace(/^\s*[-–:]\s*/,'');
   return {tags,title:rest.trim()||n};
 }
 
@@ -395,7 +405,7 @@ function render(){
   saveState();
 }
 
-function selM(i){mi=i;render();}
+function selM(i){mi=i;userPicked=true;render();}
 
 /* จำสาขา/คำค้นไว้ใน URL — แชร์ลิงก์แล้วเปิดตรงสาขาเดิม */
 function saveState(){
@@ -424,44 +434,55 @@ function showError(){
 }
 function toast(msg){const t=$('toast');t.textContent=msg;t.style.display='block';clearTimeout(t._h);t._h=setTimeout(()=>t.style.display='none',3500);}
 
+/* สาขาที่ลิงก์ขอ (#b=...) และสาขาที่ลูกค้ากดเลือกเอง — ใช้ id เพื่อไม่ให้สลับสาขาเมื่อข้อมูลแต่ละแหล่งมาไม่พร้อมกัน */
+let wantId=null, userPicked=false, stateLoaded=false, VEND=null, SHOPM=null;
+const getJSON=async url=>{
+  const ctl=new AbortController(), to=setTimeout(()=>ctl.abort(),45000);
+  try{const r=await fetch(url+'?t='+Date.now(),{signal:ctl.signal});if(!r.ok)throw new Error('HTTP '+r.status);return await r.json();}
+  finally{clearTimeout(to);}
+};
+
+function apply(){
+  const machines=[...(VEND?VEND.machines:[]),...(SHOPM?[SHOPM]:[])];
+  if(!machines.length)return;
+  const curId=DATA&&DATA.machines[mi]?DATA.machines[mi].id:null;
+  const updatedAt=(VEND&&VEND.updatedAt)||(SHOPM&&SHOPM.updatedAt)||new Date().toISOString();
+  DATA={updatedAt,machines}; lastOk=Date.now();
+  if(!stateLoaded){
+    stateLoaded=true;
+    const p=loadState(); wantId=p.get('b');
+    renderCat(); if(p.get('cat'))$('cat').value=normCat(p.get('cat'));
+  }else renderCat();
+  let idx=-1;
+  if(!userPicked&&wantId) idx=machines.findIndex(m=>m.id===wantId);
+  if(idx<0&&curId) idx=machines.findIndex(m=>m.id===curId);
+  mi=idx>=0?idx:0;
+  renderUpdated(); render();
+  // ถ้าลิงก์ขอสาขาที่ยังโหลดไม่เสร็จ อย่าเขียน #b ทับ
+  if(!userPicked&&wantId&&!machines.some(m=>m.id===wantId)){const p=new URLSearchParams(location.hash.slice(1));p.set('b',wantId);history.replaceState(null,'','#'+p.toString());}
+}
+
 async function load(first){
   let slowT;
   if(first){showSkeleton();slowT=setTimeout(()=>{const s=$('slow');if(s)s.style.display='block';},SLOW_MS);}
-  try{
-    const getJSON=async url=>{
-      const ctl=new AbortController(), to=setTimeout(()=>ctl.abort(),45000);
-      try{const r=await fetch(url+'?t='+Date.now(),{signal:ctl.signal});if(!r.ok)throw new Error('HTTP '+r.status);return await r.json();}
-      finally{clearTimeout(to);}
-    };
-    const [vRes,sRes]=await Promise.allSettled([getJSON(API), SHOP_API?getJSON(SHOP_API):Promise.reject(new Error('off'))]);
-    const v=vRes.status==='fulfilled'&&vRes.value&&Array.isArray(vRes.value.machines)?vRes.value:null;
-    const s=sRes.status==='fulfilled'&&sRes.value&&Array.isArray(sRes.value.products)?sRes.value:null;
-    // ถ้าแหล่งไหนพลาดตอนรีเฟรช ใช้ข้อมูลรอบก่อนของแหล่งนั้นไปก่อน
-    const prevV=DATA?DATA.machines.filter(m=>!isShop(m)):[], prevS=DATA?DATA.machines.filter(isShop):[];
-    const machines=[...(v?v.machines:prevV)];
-    if(s) machines.push({id:SHOP.id,type:'shop',site:SHOP.site,route:'',updatedAt:s.updatedAt,
-      slots:s.products.map(p=>({sku:p.sku,name:p.name,qty:p.qty,capacity:0,price:p.price,img:p.img,cat:p.cat,unit:p.unit}))});
-    else machines.push(...prevS);
-    if(!machines.length)throw new Error('empty');
-    if(!v&&!s&&!first)throw new Error('refresh failed');
-    const updatedAt=(v&&v.updatedAt)||(s&&s.updatedAt)||(DATA&&DATA.updatedAt)||new Date().toISOString();
-    const prevId=DATA&&DATA.machines[mi]?DATA.machines[mi].id:null;
-    DATA={updatedAt,machines}; lastOk=Date.now();
-    if(first){
-      const p=loadState();
-      const want=p.get('b'); const idx=DATA.machines.findIndex(m=>m.id===want);
-      mi=idx>=0?idx:0;
-      renderCat();
-      if(p.get('cat'))$('cat').value=normCat(p.get('cat'));
-    }else{
-      const idx=DATA.machines.findIndex(m=>m.id===prevId); mi=idx>=0?idx:Math.min(mi,DATA.machines.length-1);
-      renderCat();
-    }
-    renderUpdated(); render();
-  }catch(e){
+  // แต่ละแหล่งแสดงผลทันทีที่มาถึง ไม่ต้องรอกัน (หน้าร้านเร็ว ตู้บางครั้งช้า)
+  const pv=getJSON(API).then(v=>{
+    if(!v||!Array.isArray(v.machines)||!v.machines.length)throw new Error('empty');
+    VEND=v; apply(); return true;
+  }).catch(()=>false);
+  const ps=SHOP_API?getJSON(SHOP_API).then(s=>{
+    if(!s||!Array.isArray(s.products))throw new Error('empty');
+    SHOPM={id:SHOP.id,type:'shop',site:SHOP.site,route:'',updatedAt:s.updatedAt,
+      slots:s.products.map(p=>({sku:p.sku,name:p.name,qty:p.qty,capacity:0,price:p.price,img:p.img,cat:p.cat,unit:p.unit}))};
+    apply(); return true;
+  }).catch(()=>false):Promise.resolve(false);
+  const [okV,okS]=await Promise.all([pv,ps]);
+  clearTimeout(slowT);
+  const s=$('slow'); if(s&&DATA)s.remove();
+  if(!okV&&!okS){
     if(first||!DATA)showError();
     else toast('อัปเดตอัตโนมัติไม่สำเร็จ จะลองใหม่อีกครั้ง');
-  }finally{clearTimeout(slowT);}
+  }
 }
 
 /* ---------- เหตุการณ์ ---------- */
