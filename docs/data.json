@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-27T02:09:42.243Z",
+ "updatedAt": "2026-10-27T07:49:51.506Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-27 10:08",
+   "updateTime": "10-27 15:49",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-27 10:09",
+   "updateTime": "10-27 15:49",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -551,7 +551,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Vendetta Booster Pack",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/82087d8eb4e8417eadd74d9f5e30746f.png",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-27 10:09",
+   "updateTime": "10-27 15:49",
    "supplyTime": "10-14 18:35",
    "slots": [
     {
