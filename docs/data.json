@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-27T18:58:35.673Z",
+ "updatedAt": "2026-10-27T22:53:48.586Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-28 02:58",
+   "updateTime": "10-28 06:53",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-28 02:58",
+   "updateTime": "10-28 06:53",
    "supplyTime": "10-27 20:00",
    "slots": [
     {
