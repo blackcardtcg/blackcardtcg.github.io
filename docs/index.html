@@ -51,19 +51,87 @@ header{position:sticky;top:0;z-index:50;background:rgba(0,0,0,.86);backdrop-filt
 .upd.stale .dot{background:var(--amb)}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
 
-.hero{max-width:1240px;margin:0 auto;padding:46px var(--gut) 8px;text-align:center}
-.hero .eyebrow{font-family:var(--head);font-weight:500;letter-spacing:.36em;font-size:.72rem;color:var(--mut);text-transform:uppercase;margin-bottom:16px}
-.hero h1{font-family:var(--head);font-weight:700;font-size:clamp(2.3rem,7vw,5.2rem);line-height:.98;letter-spacing:.04em;text-transform:uppercase}
+/* ---- Hero: พื้นหลัง shader โครมเหลว (WebGL) ---- */
+.hero{position:relative;overflow:hidden;border-bottom:1px solid var(--line);isolation:isolate;
+  background:radial-gradient(120% 90% at 50% 0%,#1d1d1d 0%,#0a0a0a 45%,#000 75%)}
+#fx{position:absolute;inset:0;width:100%;height:100%;z-index:-1;display:block;opacity:0;transition:opacity 1.2s ease}
+#fx.on{opacity:1}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;
+  background:linear-gradient(180deg,rgba(0,0,0,.15) 0%,rgba(0,0,0,.35) 55%,#000 100%)}
+.hero-in{max-width:1240px;margin:0 auto;padding:64px var(--gut) 54px;text-align:center}
+.hero .eyebrow{font-family:var(--head);font-weight:500;letter-spacing:.36em;font-size:.72rem;color:#bdbdbd;text-transform:uppercase;margin-bottom:16px}
+.hero h1{font-family:var(--head);font-weight:700;font-size:clamp(2.5rem,7.6vw,5.6rem);line-height:.98;letter-spacing:.04em;text-transform:uppercase;text-wrap:balance;text-shadow:0 0 40px rgba(255,255,255,.12)}
 .hero h1 .o{-webkit-text-stroke:1.6px #fff;color:transparent}
-.hero p{color:var(--mut);font-size:.95rem;margin:14px auto 0;max-width:560px;line-height:1.7}
+.hero p{color:#c4c4c4;font-size:.95rem;margin:14px auto 0;max-width:560px;line-height:1.7}
 
-/* วิธีซื้อ 3 ขั้น */
-.how{max-width:760px;margin:24px auto 0;display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--line)}
-.how div{padding:14px 12px;border-right:1px solid var(--line);text-align:left;display:flex;gap:10px;align-items:flex-start}
-.how div:last-child{border-right:none}
-.how b{font-family:var(--head);font-weight:700;font-size:1.25rem;line-height:1;color:#fff;min-width:16px}
-.how span{font-size:.8rem;color:var(--mut);line-height:1.5}
-.how strong{display:block;color:#fff;font-weight:600;font-size:.85rem}
+/* ---- Bento ภาพรวม ---- */
+.bento{max-width:1240px;margin:0 auto;padding:18px var(--gut) 0;display:grid;gap:10px;
+  grid-template-columns:repeat(6,1fr);grid-auto-rows:minmax(108px,auto)}
+.bx{position:relative;background:var(--panel);border:1px solid var(--line);padding:16px 18px;display:flex;flex-direction:column;justify-content:space-between;gap:6px;
+  text-decoration:none;color:#fff;overflow:hidden;transition:border-color .2s,transform .2s,background .2s}
+.bx::before{content:"";position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .3s;
+  background:radial-gradient(260px circle at var(--px,50%) var(--py,50%),rgba(255,255,255,.08),transparent 60%)}
+.bx:hover{border-color:#3a3a3a}
+.bx:hover::before{opacity:1}
+.b-stock{grid-column:span 2}
+.b-live{grid-column:span 1}
+.b-how{grid-column:span 2}
+.b-shop{grid-column:span 1;border-color:rgba(6,199,85,.35)}
+.b-shop:hover{background:#08150d;border-color:var(--line-g);transform:translateY(-2px)}
+.b-shop .bn{color:var(--line-g)}
+.bl{font-family:var(--head);font-weight:500;font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--mut)}
+.bn{font-family:var(--head);font-weight:700;font-size:2.4rem;line-height:1;font-variant-numeric:tabular-nums}
+.bn.sm{font-size:1.25rem;letter-spacing:.04em}
+.bs2{font-size:.78rem;color:var(--mut2)}
+.steps{list-style:none;display:grid;gap:7px}
+.steps li{display:flex;gap:10px;align-items:center;font-size:.84rem;color:#ddd}
+.steps b{font-family:var(--head);font-weight:700;width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;border:1px solid #444;font-size:.75rem;flex:0 0 auto}
+
+/* ---- Bento motion ---- */
+@property --a{syntax:'<angle>';inherits:false;initial-value:0deg}
+.bento .bx{animation:bxIn .7s cubic-bezier(.2,.8,.2,1) backwards;animation-delay:calc(var(--d,0) * 90ms + 150ms)}
+@keyframes bxIn{from{opacity:0;transform:translateY(14px) scale(.98)}to{opacity:1;transform:none}}
+/* แสงวิ่งรอบขอบกล่อง */
+.bx::after{content:"";position:absolute;inset:0;padding:1px;pointer-events:none;
+  background:conic-gradient(from var(--a),transparent 0 72%,rgba(255,255,255,.75) 86%,transparent 96%);
+  -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;
+  animation:beam 7s linear infinite;animation-delay:calc(var(--d,0) * -1.75s);opacity:.55}
+.b-shop::after{background:conic-gradient(from var(--a),transparent 0 66%,rgba(6,199,85,.95) 84%,transparent 96%);opacity:.9}
+@keyframes beam{to{--a:360deg}}
+/* ตัวเลขกำลังโหลด: แถบประกายวิ่ง */
+.bn.ld{color:transparent;background:linear-gradient(90deg,#1e1e1e 20%,#3a3a3a 50%,#1e1e1e 80%) 0 0/300% 100%;animation:shimmer 1.3s linear infinite;border-radius:2px;width:max-content}
+@keyframes shimmer{to{background-position:-150% 0}}
+.bn.pop{animation:pop .5s cubic-bezier(.2,1.4,.4,1)}
+@keyframes pop{0%{transform:scale(.85);opacity:.4}100%{transform:none;opacity:1}}
+/* กราฟเส้นเล็ก ๆ ค่อย ๆ วาด */
+.b-stock{padding-right:150px}
+.b-how{padding-bottom:24px}
+.spark{position:absolute;right:18px;bottom:18px;width:120px;height:40px;overflow:visible}
+.spark path{fill:none;stroke:#fff;stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round;opacity:.55;stroke-dasharray:160;stroke-dashoffset:160;animation:draw 2.4s .5s cubic-bezier(.4,0,.2,1) forwards,sparkGlow 3s 3s ease-in-out infinite}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes sparkGlow{50%{opacity:.9;filter:drop-shadow(0 0 4px rgba(255,255,255,.6))}}
+/* Live: วงสัญญาณ + อีควอไลเซอร์ */
+.ping{position:relative;display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--grn);margin-right:8px;vertical-align:0}
+.ping::after{content:"";position:absolute;inset:0;border-radius:50%;border:1.5px solid var(--grn);animation:ping 1.8s cubic-bezier(0,.6,.4,1) infinite}
+@keyframes ping{from{transform:scale(1);opacity:.9}to{transform:scale(3.2);opacity:0}}
+.eq{display:inline-flex;gap:2px;align-items:flex-end;height:11px;margin-right:8px;vertical-align:-1px}
+.eq i{display:block;width:2px;height:100%;background:var(--grn);transform-origin:bottom;animation:eq 1.1s ease-in-out infinite}
+.eq i:nth-child(2){animation-delay:-.3s}.eq i:nth-child(3){animation-delay:-.6s}.eq i:nth-child(4){animation-delay:-.15s}.eq i:nth-child(5){animation-delay:-.45s}
+@keyframes eq{0%,100%{transform:scaleY(.25)}50%{transform:scaleY(1)}}
+/* 3 ขั้น: ไฮไลต์ทีละขั้นวนไป + แถบความคืบหน้า */
+.steps li{transition:color .3s;animation:stepOn 4.5s infinite;animation-delay:calc(var(--s) * 1.5s)}
+.steps li b{animation:stepB 4.5s infinite;animation-delay:calc(var(--s) * 1.5s)}
+@keyframes stepOn{0%,30%{color:#fff}34%,100%{color:#9a9a9a}}
+@keyframes stepB{0%,30%{background:#fff;color:#000;border-color:#fff;box-shadow:0 0 14px rgba(255,255,255,.35)}34%,100%{background:transparent;color:#fff;border-color:#444;box-shadow:none}}
+.track{position:absolute;left:18px;right:18px;bottom:10px;height:2px;background:#1c1c1c;overflow:hidden}
+.track i{position:absolute;inset:0;background:linear-gradient(90deg,#666,#fff);transform-origin:left;animation:track 4.5s linear infinite}
+@keyframes track{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+/* LINE: แสงกวาด + ลูกศรขยับ */
+.bento .b-shop{background:linear-gradient(110deg,var(--panel) 40%,rgba(6,199,85,.14) 50%,var(--panel) 60%) 0 0/250% 100%;animation:bxIn .7s cubic-bezier(.2,.8,.2,1) backwards,sweep 4s 1.2s ease-in-out infinite;animation-delay:calc(var(--d,0) * 90ms + 150ms),1.2s}
+@keyframes sweep{0%{background-position:120% 0}60%,100%{background-position:-120% 0}}
+.arr{display:inline-block;transition:transform .25s}
+.b-shop:hover .arr{transform:translate(3px,-3px)}
+.b-shop .bn{text-shadow:0 0 18px rgba(6,199,85,.35)}
 
 /* สาขา */
 .branches{max-width:1240px;margin:0 auto;padding:28px var(--gut) 0}
@@ -72,6 +140,7 @@ header{position:sticky;top:0;z-index:50;background:rgba(0,0,0,.86);backdrop-filt
 .tab{border:1px solid var(--line2);background:transparent;color:#cfcfcf;padding:12px 20px;cursor:pointer;font-family:var(--head);font-weight:500;letter-spacing:.08em;text-transform:uppercase;font-size:.82rem;transition:.18s;text-align:center;min-height:56px;flex:0 0 auto;position:relative}
 .tab small{display:block;font-weight:400;font-size:.68rem;letter-spacing:.06em;color:var(--mut2);margin-top:4px}
 .tab:hover{border-color:#666;color:#fff}
+.tab:active,.btn:active,.order:active,.bx:active{transform:scale(.97)}
 .tab.active{background:#fff;color:#000;border-color:#fff}
 .tab.active small{color:#444}
 .tab .hit{position:absolute;top:-9px;right:-6px;background:var(--grn);color:#000;font-size:.66rem;font-weight:600;letter-spacing:.04em;padding:2px 7px;border-radius:10px}
@@ -96,7 +165,21 @@ main{max-width:1240px;margin:0 auto;padding:12px var(--gut) 70px}
 
 /* การ์ดสินค้า */
 .card{background:var(--panel);border:1px solid var(--line);display:flex;flex-direction:column;transition:.2s;position:relative}
-.card:hover{border-color:#484848;transform:translateY(-3px)}
+.card{--rx:0deg;--ry:0deg;--foil:0;transform:perspective(900px) rotateX(var(--rx)) rotateY(var(--ry));transform-style:preserve-3d;will-change:transform;
+  transition:border-color .2s,transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s;}
+.grid.anim .card{animation:rise .45s cubic-bezier(.2,.8,.2,1) backwards;animation-delay:calc(var(--i,0) * 28ms)}
+.card:hover{border-color:#4a4a4a;box-shadow:0 18px 40px -18px rgba(0,0,0,.9),0 0 0 1px rgba(255,255,255,.04)}
+.card.tilt{transition:border-color .2s,box-shadow .35s}
+@keyframes rise{from{opacity:.35;transform:translateY(10px)}to{opacity:1;transform:none}}
+/* ฟอยล์โฮโลแกรมแบบการ์ดแรร์ — ตามเมาส์ / การเอียงเครื่อง */
+.imgbox::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:var(--foil);transition:opacity .35s;mix-blend-mode:multiply;
+  background:
+    radial-gradient(farthest-corner circle at var(--mx,50%) var(--my,50%),rgba(255,255,255,.9) 0%,rgba(255,255,255,0) 45%),
+    repeating-linear-gradient(115deg,#ff6ec4 0%,#7873f5 7%,#4adede 14%,#a8ff78 21%,#ffe66d 28%,#ff6ec4 35%);
+  background-size:100% 100%,240% 240%;background-position:center,calc(var(--mx,50%) * 1.2) calc(var(--my,50%) * 1.2);filter:saturate(1.1) brightness(.9)}
+.card:hover .imgbox::after,.card.tilt .imgbox::after{--foil:.38}
+.card.sold .imgbox::after{display:none}
+body.gyro .card:not(.sold) .imgbox::after{opacity:.22}
 .imgbox{background:#fff;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;position:relative;padding:12px;overflow:hidden}
 .imgbox img{width:100%;height:100%;object-fit:contain;opacity:0;transition:opacity .25s}
 .imgbox img.ok{opacity:1}
@@ -151,15 +234,24 @@ footer p{color:var(--mut2);font-size:.78rem;line-height:1.8;max-width:520px;marg
 
 @media(max-width:640px){
   :root{--gut:16px}
-  .hero{padding:26px var(--gut) 4px}
-  .hero .eyebrow{font-size:.66rem;margin-bottom:10px}
+  .hero-in{padding:30px var(--gut) 26px}
+  .hero .eyebrow{font-size:.62rem;letter-spacing:.26em;margin-bottom:10px}
   .hero p{font-size:.86rem;margin-top:10px}
-  .how{margin-top:16px}
-  .how div{flex-direction:column;gap:4px;padding:10px 8px}
-  .how b{font-size:1rem}
-  .how span{font-size:.7rem;line-height:1.4}
-  .how strong{font-size:.76rem}
-  .how .x{display:none}
+  .bento{grid-template-columns:repeat(2,1fr);grid-auto-rows:auto;grid-auto-flow:dense;gap:8px;padding-top:12px}
+  .b-stock .bn{font-size:1.7rem}
+  .b-stock{flex-direction:row;flex-wrap:wrap;align-items:baseline;column-gap:12px}
+  .b-stock .bl{width:100%}
+  .b-stock{padding-right:14px}
+  .b-stock .bl{padding-right:90px}
+  .spark{width:72px;height:22px;right:14px;top:12px;bottom:auto}
+  .track{left:14px;right:14px}
+  .b-stock,.b-how{grid-column:span 2}
+  .b-live,.b-shop{grid-column:span 1}
+  .bx{padding:12px 14px}
+  .bn{font-size:2rem}
+  .bn.sm{font-size:1.05rem}
+  .b-how .steps{grid-template-columns:repeat(3,1fr);gap:6px}
+  .b-how .steps li{flex-direction:column;align-items:flex-start;gap:5px;font-size:.74rem;line-height:1.35}
   .branches{padding-top:20px}
   .blabel{text-align:left}
   .tabs{flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;scroll-snap-type:x mandatory;padding:10px 0 6px;margin-top:-10px;scroll-padding-inline:0;scrollbar-width:none}
@@ -179,7 +271,7 @@ footer p{color:var(--mut2);font-size:.78rem;line-height:1.8;max-width:520px;marg
   .imgbox{padding:8px}
   .tag{font-size:.68rem;padding:1px 5px}
 }
-@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.spark path{stroke-dashoffset:0}.bx::after{display:none}}
 </style>
 </head>
 <body>
@@ -199,15 +291,41 @@ footer p{color:var(--mut2);font-size:.78rem;line-height:1.8;max-width:520px;marg
   </div>
 </header>
 
-<section class="hero">
-  <div class="eyebrow">Vending · Real-time Stock</div>
-  <h1>Know Before<br><span class="o">You Pull</span></h1>
-  <p>เช็กว่าตู้และหน้าร้าน BLACKCARD มีของอะไร ราคาเท่าไหร่ เหลือกี่ชิ้น ก่อนเดินทาง</p>
-  <div class="how">
-    <div><b>1</b><span><strong>เลือกสาขา / ค้นหา</strong><span class="x">ดูของที่มีในตู้ตอนนี้</span></span></div>
-    <div><b>2</b><span><strong>จดเลขช่อง</strong><span class="x">เช่น "ช่อง 016" บนการ์ดสินค้า</span></span></div>
-    <div><b>3</b><span><strong>กดเลขช่องที่ตู้</strong><span class="x">ชำระเงินแล้วรับสินค้าได้เลย</span></span></div>
+<section class="hero" id="hero">
+  <canvas id="fx" aria-hidden="true"></canvas>
+  <div class="hero-in">
+    <div class="eyebrow">Vending · Storefront · Real-time Stock</div>
+    <h1>Know Before<br><span class="o">You Pull</span></h1>
+    <p>เช็กว่าตู้และหน้าร้าน BLACKCARD มีของอะไร ราคาเท่าไหร่ เหลือกี่ชิ้น ก่อนเดินทาง</p>
   </div>
+</section>
+
+<section class="bento" aria-label="ภาพรวม">
+  <div class="bx b-stock" style="--d:0">
+    <span class="bl">สินค้าพร้อมขายตอนนี้</span>
+    <span class="bn ld" id="bStock">000</span>
+    <span class="bs2" id="bStockSub">กำลังเช็กของในตู้และหน้าร้าน…</span>
+    <svg class="spark" viewBox="0 0 120 32" preserveAspectRatio="none" aria-hidden="true"><path d="M0 26 L12 22 L24 24 L36 16 L48 19 L60 11 L72 14 L84 8 L96 12 L108 5 L120 7"/></svg>
+  </div>
+  <div class="bx b-live" style="--d:1">
+    <span class="bl"><span class="ping"></span>Live</span>
+    <span class="bn sm ld" id="bAgo">กำลังโหลด</span>
+    <span class="bs2"><span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>รีเฟรชเองทุกนาที</span>
+  </div>
+  <div class="bx b-how" style="--d:2">
+    <span class="bl">ซื้อที่ตู้ใน 3 ขั้น</span>
+    <ol class="steps">
+      <li style="--s:0"><b>1</b><span>เลือกสาขา / ค้นหา</span></li>
+      <li style="--s:1"><b>2</b><span>จดเลขช่อง เช่น "ช่อง 016"</span></li>
+      <li style="--s:2"><b>3</b><span>กดเลขช่องที่ตู้ แล้วชำระเงิน</span></li>
+    </ol>
+    <span class="track" aria-hidden="true"><i></i></span>
+  </div>
+  <a class="bx b-shop" style="--d:3" href="https://line.me/R/ti/p/%40blackcardtcg" target="_blank" rel="noopener">
+    <span class="bl">หน้าร้าน · Always One Plaza ชั้น 5</span>
+    <span class="bn sm">สั่งผ่าน LINE</span>
+    <span class="bs2">@blackcardtcg <span class="arr">↗</span></span>
+  </a>
 </section>
 
 <section class="branches" aria-label="เลือกสาขา">
@@ -332,6 +450,23 @@ function renderUpdated(){
   const ago=mins<1?'เมื่อสักครู่':mins<60?mins+' นาทีที่แล้ว':t.toLocaleString('th-TH',{dateStyle:'medium',timeStyle:'short'});
   $('updated').className='upd'+(stale?' stale':'');
   $('updated').innerHTML='<span class="dot"></span>'+(stale?'ข้อมูลอาจไม่ล่าสุด':'LIVE')+'<br><b>อัปเดต '+esc(ago)+'</b>';
+  const ba=$('bAgo'); ba.textContent=ago; if(ba.classList.contains('ld')){ba.classList.remove('ld');ba.classList.add('pop');}
+  renderBento();
+}
+
+/* ตัวเลขใน bento นับขึ้นแบบนุ่ม ๆ */
+let shownStock=0;
+function renderBento(){
+  if(!DATA)return;
+  const items=DATA.machines.flatMap(m=>groupProducts(m));
+  const inStock=items.filter(p=>p.qty>0).length;
+  const branches=DATA.machines.length;
+  $('bStockSub').textContent=`รายการที่มีของ จาก ${branches} สาขา (ตู้ + หน้าร้าน)`;
+  const el=$('bStock'), from=shownStock, to=inStock, t0=performance.now();
+  if(el.classList.contains('ld')){el.classList.remove('ld');el.classList.add('pop');}
+  if(from===to||matchMedia('(prefers-reduced-motion: reduce)').matches){el.textContent=fmt(to);shownStock=to;return;}
+  const step=t=>{const k=Math.min(1,(t-t0)/700), e=1-Math.pow(1-k,3);el.textContent=fmt(Math.round(from+(to-from)*e));if(k<1)requestAnimationFrame(step);else shownStock=to;};
+  requestAnimationFrame(step);
 }
 
 function renderTabs(){
@@ -360,7 +495,7 @@ function renderCat(){
   if(cats.includes(keep))$('cat').value=keep;
 }
 
-function cardHTML(p){
+function cardHTML(p,i){
   const out=p.qty<=0;
   const cls=out?'out':(p.qty<=Math.max(2,p.cap*.15)?'low':'ok');
   const {tags,title}=splitName(p.name);
@@ -369,7 +504,7 @@ function cardHTML(p){
          :`<a class="order" href="${lineUrl('สนใจสั่งซื้อ '+p.name+(p.price!=null?' ราคา ฿'+fmt(p.price):'')+' จำนวน 1 ชิ้นครับ')}" target="_blank" rel="noopener">สั่งซื้อทาง LINE</a>`)
     :null;
   const slotTxt=p.slots.map(s=>`<span class="${s.qty>0?'':'so'}"><b>${esc(s.aisle)}</b> (${s.qty})</span>`).join(', ');
-  return `<article class="card${out?' sold':''}">
+  return `<article class="card${out?' sold':''}" style="--i:${Math.min(i||0,16)}">
     <div class="imgbox${p.img?' wait':''}">${p.img?`<img loading="lazy" decoding="async" src="${esc(p.img)}" alt="${esc(title)}" width="400" height="400" onload="this.classList.add('ok');this.parentNode.classList.remove('wait')" onerror="this.parentNode.classList.remove('wait');this.outerHTML='<div class=noimg>No Image</div>'">`:'<div class="noimg">No Image</div>'}
       ${out?'<div class="soldtag"><span>SOLD OUT</span></div>':''}
     </div>
@@ -390,7 +525,9 @@ function render(){
   const all=groupProducts(DATA.machines[mi]);
   const items=filterItems(all);
   $('count').textContent=`${siteName(DATA.machines[mi])} · ${items.length} รายการ`;
-  $('grid').innerHTML=items.map(cardHTML).join('');
+  const key=mi+'|'+$('q').value+'|'+$('cat').value+'|'+$('stock').value;
+  if(key!==lastKey){const g=$('grid');g.classList.add('anim');clearTimeout(g._a);g._a=setTimeout(()=>g.classList.remove('anim'),1200);} lastKey=key;
+  $('grid').innerHTML=items.map((p,i)=>cardHTML(p,i)).join('');
   if(items.length){$('status').innerHTML='';}
   else{
     const others=DATA.machines.map((m,i)=>({i,m,n:filterItems(groupProducts(m)).length})).filter(o=>o.i!==mi&&o.n>0);
@@ -405,6 +542,7 @@ function render(){
   saveState();
 }
 
+let lastKey=null;
 function selM(i){mi=i;userPicked=true;render();}
 
 /* จำสาขา/คำค้นไว้ใน URL — แชร์ลิงก์แล้วเปิดตรงสาขาเดิม */
@@ -502,6 +640,99 @@ $('tabs').addEventListener('keydown',e=>{
   const n=DATA.machines.length; selM((mi+(e.key==='ArrowRight'?1:n-1))%n);
   const a=$('tabs').querySelector('.tab.active'); if(a)a.focus();
 });
+
+/* ---------- เอฟเฟกต์ ---------- */
+const RM=matchMedia('(prefers-reduced-motion: reduce)').matches;
+const FINE=matchMedia('(hover: hover) and (pointer: fine)').matches;
+
+/* 1) Hero: shader โครมเหลวขาว-ดำ มีประกายรุ้งบาง ๆ แบบฟอยล์ */
+(function heroShader(){
+  const cv=$('fx'); if(!cv)return;
+  let gl; try{gl=cv.getContext('webgl',{antialias:false,alpha:false,powerPreference:'low-power'});}catch(e){}
+  if(!gl)return; // ไม่มี WebGL ใช้พื้นหลัง gradient เดิม
+  const vs='attribute vec2 p;void main(){gl_Position=vec4(p,0.,1.);}';
+  const fs=`precision mediump float;uniform vec2 r;uniform float t;uniform vec2 m;
+  float h(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}
+  float n(vec2 p){vec2 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);
+    return mix(mix(h(i),h(i+vec2(1,0)),f.x),mix(h(i+vec2(0,1)),h(i+vec2(1,1)),f.x),f.y);}
+  float fbm(vec2 p){float v=0.,a=.5;for(int i=0;i<5;i++){v+=a*n(p);p=p*2.03+vec2(1.7,9.2);a*=.5;}return v;}
+  void main(){
+    vec2 uv=(gl_FragCoord.xy-.5*r)/r.y;
+    uv+= (m-.5)*.08;
+    float tt=t*.06;
+    vec2 q=vec2(fbm(uv*1.6+tt),fbm(uv*1.6-tt+3.1));
+    float f=fbm(uv*1.4+q*1.8+vec2(tt*.7,-tt));
+    float ridge=pow(1.-abs(f*2.-1.),6.);                 // เส้นโครมสะท้อนแสง
+    vec3 base=vec3(f*f*.16);
+    vec3 irid=.5+.5*cos(6.2831*(f*1.3+q.x*.6+vec3(0.,.33,.67))); // ประกายรุ้ง
+    float ridge2=pow(1.-abs(fbm(uv*3.+q*2.-tt)*2.-1.),10.);
+    vec3 col=base*vec3(.92,.95,1.)+ridge*mix(vec3(.95),irid,.4)*.9+ridge2*vec3(.55);
+    float vig=smoothstep(1.25,.15,length(uv*vec2(.8,1.1)));
+    gl_FragColor=vec4(col*vig,1.);
+  }`;
+  const sh=(type,src)=>{const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);return gl.getShaderParameter(s,gl.COMPILE_STATUS)?s:null;};
+  const v=sh(gl.VERTEX_SHADER,vs), f=sh(gl.FRAGMENT_SHADER,fs); if(!v||!f)return;
+  const pr=gl.createProgram();gl.attachShader(pr,v);gl.attachShader(pr,f);gl.linkProgram(pr);
+  if(!gl.getProgramParameter(pr,gl.LINK_STATUS))return;
+  gl.useProgram(pr);
+  const b=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,b);
+  gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,3,-1,-1,3]),gl.STATIC_DRAW);
+  const loc=gl.getAttribLocation(pr,'p');gl.enableVertexAttribArray(loc);gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
+  const uR=gl.getUniformLocation(pr,'r'), uT=gl.getUniformLocation(pr,'t'), uM=gl.getUniformLocation(pr,'m');
+  // เรนเดอร์ความละเอียดครึ่งหนึ่ง (มือถือ 0.4) แล้วให้ CSS ขยาย — ภาพนุ่มอยู่แล้ว ประหยัดแบต
+  const scale=FINE?.5:.4;
+  const size=()=>{const w=Math.max(1,Math.round(cv.clientWidth*scale)),h=Math.max(1,Math.round(cv.clientHeight*scale));
+    if(cv.width!==w||cv.height!==h){cv.width=w;cv.height=h;gl.viewport(0,0,w,h);}};
+  let mx=.5,my=.5,tx=.5,ty=.5,visible=true,raf=0,last=0,start=performance.now();
+  const frame=now=>{
+    raf=0; if(!visible||document.hidden)return;
+    if(now-last>=(FINE?33:50)){ // ~30fps คอม, ~20fps มือถือ
+      last=now; size(); mx+=(tx-mx)*.06; my+=(ty-my)*.06;
+      gl.uniform2f(uR,cv.width,cv.height); gl.uniform1f(uT,(now-start)/1000); gl.uniform2f(uM,mx,my);
+      gl.drawArrays(gl.TRIANGLES,0,3);
+    }
+    if(!RM)raf=requestAnimationFrame(frame);
+  };
+  const go=()=>{if(!raf)raf=requestAnimationFrame(frame);};
+  new IntersectionObserver(es=>{visible=es[0].isIntersecting;if(visible)go();}).observe($('hero'));
+  document.addEventListener('visibilitychange',go);
+  addEventListener('resize',()=>{if(RM){size();go();}});
+  if(FINE)$('hero').addEventListener('pointermove',e=>{const r=$('hero').getBoundingClientRect();tx=(e.clientX-r.left)/r.width;ty=1-(e.clientY-r.top)/r.height;});
+  go(); requestAnimationFrame(()=>cv.classList.add('on'));
+})();
+
+/* 2) การ์ด: เอียง 3D + ฟอยล์ตามเมาส์ (คอม) */
+if(FINE&&!RM){
+  let cur=null;
+  $('grid').addEventListener('pointermove',e=>{
+    const c=e.target.closest('.card'); if(!c)return;
+    if(cur&&cur!==c)reset(cur); cur=c;
+    const r=c.getBoundingClientRect(), x=(e.clientX-r.left)/r.width, y=(e.clientY-r.top)/r.height;
+    c.classList.add('tilt');
+    c.style.setProperty('--mx',(x*100)+'%'); c.style.setProperty('--my',(y*100)+'%');
+    c.style.setProperty('--ry',((x-.5)*9)+'deg'); c.style.setProperty('--rx',((.5-y)*9)+'deg');
+  });
+  const reset=c=>{c.classList.remove('tilt');['--rx','--ry'].forEach(k=>c.style.setProperty(k,'0deg'));};
+  $('grid').addEventListener('pointerleave',()=>{if(cur)reset(cur);cur=null;});
+}
+
+/* 3) มือถือ: ฟอยล์ทุกใบวิ้งตามการเอียงเครื่อง (Android) */
+if(!FINE&&!RM&&'DeviceOrientationEvent' in window){
+  let pending=false,gx=50,gy=50;
+  const onTilt=e=>{
+    if(e.gamma==null)return;
+    gx=Math.max(0,Math.min(100,50+e.gamma*1.6)); gy=Math.max(0,Math.min(100,50+(e.beta-45)*1.4));
+    if(pending)return; pending=true;
+    requestAnimationFrame(()=>{pending=false;document.body.classList.add('gyro');
+      const g=$('grid'); g.style.setProperty('--mx',gx+'%'); g.style.setProperty('--my',gy+'%');});
+  };
+  // iOS ต้องขออนุญาตก่อน — ไม่เด้งถามลูกค้า ใช้เฉพาะเครื่องที่อนุญาตอยู่แล้ว (Android)
+  if(typeof DeviceOrientationEvent.requestPermission!=='function') addEventListener('deviceorientation',onTilt,{passive:true});
+}
+
+/* 4) Bento: แสงตามนิ้ว/เมาส์ */
+document.querySelectorAll('.bx').forEach(b=>b.addEventListener('pointermove',e=>{
+  const r=b.getBoundingClientRect(); b.style.setProperty('--px',(e.clientX-r.left)+'px'); b.style.setProperty('--py',(e.clientY-r.top)+'px');}));
 
 load(true);
 setInterval(()=>{ if(!document.hidden) load(false); }, REFRESH_MS);
