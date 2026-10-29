@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-29T11:42:19.744Z",
+ "updatedAt": "2026-10-29T17:32:46.758Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-29 19:41",
+   "updateTime": "10-30 01:32",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-29 19:41",
+   "updateTime": "10-30 01:32",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -853,14 +853,14 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-29 19:41",
+   "updateTime": "10-30 01:31",
    "supplyTime": "10-27 20:00",
    "slots": [
     {
      "aisle": "010",
      "name": "[ 1 PACK ][ THAI VER. ] BATTLE OF TALINGCHAN BT11 JOURNEY TO นคร Z BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/0e3c259573c44c308da5540a02d0a2cc.png",
@@ -1090,7 +1090,7 @@
      "aisle": "02B",
      "name": "[ 1 PACK ] [JP] YUGIOH! CHAOS ORIGINS Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ff25471ccfae4e79be59bb7460acc127.png",
@@ -1140,7 +1140,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [JP] YUGIOH! - BEYOND THE BRAVEF",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5831ba42525d4b9880fa97b7ee18ea16.jpg",
