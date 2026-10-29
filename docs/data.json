@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-29T05:33:04.167Z",
+ "updatedAt": "2026-10-29T11:42:19.744Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-29 13:32",
+   "updateTime": "10-29 19:41",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 11,
+     "qty": 9,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 4,
+     "qty": 3,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-29 13:32",
+   "updateTime": "10-29 19:41",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -541,7 +541,7 @@
      "aisle": "024",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Unleashed Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 300,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/452f48e894ed450186b61fe74c93ede2.png",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-29 13:32",
+   "updateTime": "10-29 19:41",
    "supplyTime": "10-27 20:00",
    "slots": [
     {
@@ -1110,7 +1110,7 @@
      "aisle": "031",
      "name": "[ 1 PACK ][JP VER.] DRAGONBALL STORY BOOSTER 01 [ST01]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8d7389d0e63c41b9b182f7aaf7810145.png",
