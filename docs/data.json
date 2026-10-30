@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-30T01:45:14.583Z",
+ "updatedAt": "2026-10-30T07:44:44.086Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-30 09:44",
+   "updateTime": "10-30 15:43",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -52,7 +52,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 12,
+     "qty": 9,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -72,7 +72,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 11,
+     "qty": 10,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 9,
+     "qty": 8,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-30 09:44",
+   "updateTime": "10-30 15:43",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -441,7 +441,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 4,
+     "qty": 2,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
@@ -561,7 +561,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ] [EN] POKEMON Mega Evolution - Ascended Heroes",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 590,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/066b153493b045f1bb89c79d5936d61f.jpg",
@@ -601,7 +601,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Shimmering Skies Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 320,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2143d43ecaa94ad596a26b5c4ce2d451.jpg",
@@ -631,7 +631,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Fabled Booster Pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 1600,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
@@ -641,7 +641,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ] [EN] Disney Lorcana : Whisper in the Well",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 390,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c59c29a3de01433396a3f3113dda0e7d.jpg",
@@ -673,7 +673,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 200,
+     "price": 120,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
      "cat": "DRAGONBALL"
     },
@@ -713,7 +713,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3990,
+     "price": 3900,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac06ee03c9fa4440ad3331c364fccfb0.jpg",
      "cat": "ONE PIECE"
     },
@@ -723,7 +723,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 4700,
+     "price": 4500,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a3694360752146a68d4ce3e0787106ae.jpg",
      "cat": "ONE PIECE"
     },
@@ -733,7 +733,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 4700,
+     "price": 4500,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a3694360752146a68d4ce3e0787106ae.jpg",
      "cat": "ONE PIECE"
     },
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-30 08:45",
+   "updateTime": "10-30 15:44",
    "supplyTime": "10-27 20:00",
    "slots": [
     {
@@ -910,7 +910,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - EXTRA BOOSTER - The World's Strongest Warriors OP17",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2f355611d9624ad3b47931f5cd2336d4.jpg",
