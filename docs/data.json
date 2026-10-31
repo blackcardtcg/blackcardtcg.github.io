@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-31T14:45:13.240Z",
+ "updatedAt": "2026-10-31T18:49:04.117Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-31 22:44",
+   "updateTime": "11-01 02:48",
    "supplyTime": "10-31 20:04",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-31 22:44",
+   "updateTime": "11-01 02:48",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-31 22:44",
+   "updateTime": "11-01 02:48",
    "supplyTime": "10-27 20:00",
    "slots": [
     {
@@ -930,7 +930,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 190,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5b54f53af024417e81abe539979ca3bc.jpg",
