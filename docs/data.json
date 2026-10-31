@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-30T23:13:26.014Z",
+ "updatedAt": "2026-10-31T02:25:52.138Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "10-31 07:12",
+   "updateTime": "10-31 10:25",
    "supplyTime": "10-08 22:00",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "10-31 07:12",
+   "updateTime": "10-31 10:25",
    "supplyTime": "10-15 20:11",
    "slots": [
     {
@@ -691,7 +691,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 12,
+     "qty": 11,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "10-31 07:12",
+   "updateTime": "10-31 10:25",
    "supplyTime": "10-27 20:00",
    "slots": [
     {
