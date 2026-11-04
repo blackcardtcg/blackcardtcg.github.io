@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T01:28:42.551Z",
+ "updatedAt": "2026-11-04T07:55:04.527Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-04 09:27",
+   "updateTime": "11-04 15:54",
    "supplyTime": "10-31 20:04",
    "slots": [
     {
@@ -32,7 +32,7 @@
      "aisle": "012",
      "name": "[ 1 PACK ][ English Ver.] Disney Lorcana TCG Attack of the Vine",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 380,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ddb6a8eca391436fbd010d0a60fde100.png",
@@ -72,7 +72,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 13,
+     "qty": 11,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-04 09:28",
+   "updateTime": "11-04 15:54",
    "supplyTime": "11-01 21:10",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-04 09:27",
+   "updateTime": "11-04 15:54",
    "supplyTime": "11-01 19:15",
    "slots": [
     {
@@ -1190,7 +1190,7 @@
      "aisle": "039",
      "name": "[ 1PACK ] [JP] POKEMON MEGA—Dream ex Loose pack",
      "capacity": 18,
-     "qty": 13,
+     "qty": 12,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/3eb342c5ad884e62bc018e5a547d62ae.jpg",
