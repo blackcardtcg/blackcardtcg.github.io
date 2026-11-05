@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T01:49:46.282Z",
+ "updatedAt": "2026-11-05T08:35:32.095Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-05 09:49",
+   "updateTime": "11-05 16:34",
    "supplyTime": "10-31 20:04",
    "slots": [
     {
@@ -152,7 +152,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ][ Japan Ver.] BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 18,
-     "qty": 17,
+     "qty": 16,
      "status": "Normal",
      "price": 220,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/c1d46c25bdda445b949aa77f6ad44709.png",
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 8,
+     "qty": 1,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
@@ -262,8 +262,8 @@
      "aisle": "042",
      "name": "[ 1 BOX / 24 PACK ][JP VER.] ONE PIECE HEROINES EDITION VOL.2",
      "capacity": 4,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 3290,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/1eee2da991424503861063a62e9cff1a.jpg",
      "cat": "ONE PIECE"
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-05 09:49",
+   "updateTime": "11-05 16:35",
    "supplyTime": "11-01 21:10",
    "slots": [
     {
@@ -501,7 +501,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 3,
+     "qty": 2,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/549b36c61656487c91927e932d068633.png",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-05 09:49",
+   "updateTime": "11-05 16:35",
    "supplyTime": "11-01 19:15",
    "slots": [
     {
@@ -900,7 +900,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 14,
+     "qty": 12,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/549b36c61656487c91927e932d068633.png",
@@ -1140,7 +1140,7 @@
      "aisle": "034",
      "name": "[ 1 PACK ][ JP VER. ][JA LOT] OCG YU-GI-OH! IMMORTALPHOENIX",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/2a05824d1e92416b8e4453d4347c7907.png",
@@ -1160,7 +1160,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [JP] YUGIOH! - LIMITED PACK GX RA YELLOW",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 120,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7e108b3f068340d09b14dda43d8b2c70.jpg",
