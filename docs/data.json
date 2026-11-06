@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T22:23:48.581Z",
+ "updatedAt": "2026-11-06T02:39:58.973Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-06 06:22",
+   "updateTime": "11-06 10:39",
    "supplyTime": "11-05 21:05",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-06 06:23",
+   "updateTime": "11-06 10:39",
    "supplyTime": "11-01 21:10",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-06 06:23",
+   "updateTime": "11-06 10:39",
    "supplyTime": "11-01 19:15",
    "slots": [
     {
@@ -1030,7 +1030,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ][ THAI VER. ] BATTLE OF TALINGCHAN BT11 JOURNEY TO นคร Z BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/0e3c259573c44c308da5540a02d0a2cc.png",
