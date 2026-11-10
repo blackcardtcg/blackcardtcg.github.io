@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T10:58:43.424Z",
+ "updatedAt": "2026-11-10T18:33:19.934Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-10 18:58",
+   "updateTime": "11-11 02:32",
    "supplyTime": "11-05 21:05",
    "slots": [
     {
@@ -62,7 +62,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ] Battle of Talingchan - อันธการไร้นาม - BT10",
      "capacity": 18,
-     "qty": 18,
+     "qty": 16,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/5108a977c09049b7874731b023906431.png",
@@ -72,7 +72,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -172,7 +172,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
@@ -292,7 +292,7 @@
      "aisle": "050",
      "name": "White Border Toploader Super 30 ชิ้น Blue Berry",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d8b8048ab4d84d8ab9993863cab267dc.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-10 18:58",
+   "updateTime": "11-11 02:32",
    "supplyTime": "11-08 15:34",
    "slots": [
     {
@@ -691,7 +691,7 @@
      "aisle": "039",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 10,
+     "qty": 9,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-10 18:58",
+   "updateTime": "11-11 02:33",
    "supplyTime": "11-01 19:15",
    "slots": [
     {
@@ -980,7 +980,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [EN] Riftbound: League of Legends TCG Origins Booster Pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 490,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/8adbe32de4b54a458491c1818794036d.jpg",
@@ -1160,7 +1160,7 @@
      "aisle": "036",
      "name": "[ 1 PACK ] [JP] YUGIOH! - LIMITED PACK GX RA YELLOW",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 120,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/7e108b3f068340d09b14dda43d8b2c70.jpg",
