@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T10:58:59.169Z",
+ "updatedAt": "2026-11-16T20:53:47.764Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-16 18:58",
+   "updateTime": "11-17 04:53",
    "supplyTime": "11-13 20:38",
    "slots": [
     {
@@ -82,7 +82,7 @@
      "aisle": "017",
      "name": "[ 1 PACK ] [ Eng ver. ] POKEMON Mega Evolution—Phantasmal Flames Loose pack",
      "capacity": 18,
-     "qty": 18,
+     "qty": 15,
      "status": "Normal",
      "price": 550,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/151847993dd64d30a0d73ade5a44482e.png",
@@ -152,7 +152,7 @@
      "aisle": "025",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 5,
+     "qty": 4,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-16 18:58",
+   "updateTime": "11-17 04:53",
    "supplyTime": "11-12 21:07",
    "slots": [
     {
@@ -501,8 +501,8 @@
      "aisle": "020",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 2,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/549b36c61656487c91927e932d068633.png",
      "cat": "ONE PIECE"
@@ -511,7 +511,7 @@
      "aisle": "021",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/549b36c61656487c91927e932d068633.png",
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-16 18:58",
+   "updateTime": "11-17 04:52",
    "supplyTime": "11-11 20:13",
    "slots": [
     {
@@ -1100,7 +1100,7 @@
      "aisle": "030",
      "name": "[ 1 PACK ] [JP] BOOSTER PACK -CROSS FORCE- [FB10]",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 120,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
@@ -1130,7 +1130,7 @@
      "aisle": "033",
      "name": "[ 1 PACK ] [EN] YUGIOH! - CHAOS ORIGINS",
      "capacity": 18,
-     "qty": 17,
+     "qty": 15,
      "status": "Normal",
      "price": 60,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/920a55141079404db22c3cc2d8dee5b1.jpg",
