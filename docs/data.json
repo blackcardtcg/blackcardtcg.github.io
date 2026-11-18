@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-18T02:38:12.735Z",
+ "updatedAt": "2026-11-18T10:43:12.816Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-18 10:37",
+   "updateTime": "11-18 18:42",
    "supplyTime": "11-13 20:38",
    "slots": [
     {
@@ -52,7 +52,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ] Battle of Talingchan - เพราะ Warrior is นักรบ - BT08",
      "capacity": 18,
-     "qty": 14,
+     "qty": 13,
      "status": "Normal",
      "price": 50,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/10f5706a0dc642db882df4a28f6edeb0.png",
@@ -72,7 +72,7 @@
      "aisle": "016",
      "name": "[ 1 PACK ] Battle of Talingchan - Journey to นคร Z - BT11",
      "capacity": 18,
-     "qty": 16,
+     "qty": 14,
      "status": "Normal",
      "price": 55,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/eab99fb6b36347ac97e3b58a0569100d.png",
@@ -102,7 +102,7 @@
      "aisle": "020",
      "name": "[ 1 PACK ] [ Japan Ver. ] ONE PIECE TCG - BOOSTER PACK -The World's Strongest Warriors- [OP-17]",
      "capacity": 18,
-     "qty": 15,
+     "qty": 14,
      "status": "Normal",
      "price": 230,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/68b0a80e21164d10bce4f0037a807196.png",
@@ -152,8 +152,8 @@
      "aisle": "025",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
      "cat": "ONE PIECE"
@@ -162,7 +162,7 @@
      "aisle": "026",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 14,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
@@ -172,7 +172,7 @@
      "aisle": "027",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
@@ -182,7 +182,7 @@
      "aisle": "028",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 17,
+     "qty": 14,
      "status": "Normal",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/6966d1db982d46c38fd81407603f9ed4.jpg",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-18 10:37",
+   "updateTime": "11-18 18:42",
    "supplyTime": "11-12 21:07",
    "slots": [
     {
@@ -633,7 +633,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 1600,
+     "price": 1500,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
      "cat": "LORCANA"
     },
@@ -663,7 +663,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 420,
+     "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/107d10c74d024fec8007ea5ae113a144.jpg",
      "cat": "LORCANA"
     },
@@ -683,7 +683,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 120,
+     "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
      "cat": "DRAGONBALL"
     },
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-18 10:37",
+   "updateTime": "11-18 18:28",
    "supplyTime": "11-11 20:13",
    "slots": [
     {
@@ -890,8 +890,8 @@
      "aisle": "013",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE HEROINES EDITION VOL.2 BOOSTER PACK",
      "capacity": 18,
-     "qty": 1,
-     "status": "Normal",
+     "qty": 0,
+     "status": "Sold Out",
      "price": 140,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/549b36c61656487c91927e932d068633.png",
      "cat": "ONE PIECE"
@@ -1052,7 +1052,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 1600,
+     "price": 1500,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4d1b4f273dbf4be5992114fa74c41965.jpg",
      "cat": "LORCANA"
     },
@@ -1082,7 +1082,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 420,
+     "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/107d10c74d024fec8007ea5ae113a144.jpg",
      "cat": "LORCANA"
     },
@@ -1092,7 +1092,7 @@
      "capacity": 18,
      "qty": 18,
      "status": "Normal",
-     "price": 420,
+     "price": 400,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e74b65d54c654191b48b3f07acec2aa1.jpg",
      "cat": "LORCANA"
     },
@@ -1102,7 +1102,7 @@
      "capacity": 18,
      "qty": 17,
      "status": "Normal",
-     "price": 120,
+     "price": 100,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e044a16292464140a2d282ccca168ddd.jpg",
      "cat": "DRAGONBALL"
     },
@@ -1222,7 +1222,7 @@
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 2600,
+     "price": 2200,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/4f58f8dc1db7425fafd038ba4de619f3.jpg",
      "cat": "DRAGONBALL"
     },
