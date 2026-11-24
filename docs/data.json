@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T13:09:04.420Z",
+ "updatedAt": "2026-11-24T00:48:18.526Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-23 21:08",
+   "updateTime": "11-24 08:47",
    "supplyTime": "11-13 20:38",
    "slots": [
     {
@@ -382,7 +382,7 @@
      "aisle": "066",
      "name": "120ใบ BERYFAM ซองคลุมสลีฟ ชั้นนอก ซองใส่การ์ด ซองใส ใส่การ์ด การ์ดสะสม การ์ดไอดอล",
      "capacity": 6,
-     "qty": 6,
+     "qty": 5,
      "status": "Normal",
      "price": 150,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/d83e4b6b09bb4c968dc56f35f4193857.png",
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-23 21:08",
+   "updateTime": "11-24 08:47",
    "supplyTime": "11-22 19:09",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-23 21:08",
+   "updateTime": "11-24 08:47",
    "supplyTime": "11-21 19:20",
    "slots": [
     {
