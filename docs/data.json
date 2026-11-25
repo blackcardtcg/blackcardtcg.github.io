@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T20:48:49.639Z",
+ "updatedAt": "2026-11-25T03:48:54.704Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-25 04:48",
+   "updateTime": "11-25 11:48",
    "supplyTime": "11-24 19:59",
    "slots": [
     {
@@ -394,7 +394,7 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-25 04:48",
+   "updateTime": "11-25 11:48",
    "supplyTime": "11-22 19:09",
    "slots": [
     {
@@ -853,7 +853,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-25 04:48",
+   "updateTime": "11-25 11:48",
    "supplyTime": "11-24 19:31",
    "slots": [
     {
@@ -900,7 +900,7 @@
      "aisle": "014",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE ONE PIECE THE DOMINANCE OF GOD [OP-18] BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 130,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/181b716ec4a94c5c8d3f801bfd3adf28.png",
@@ -910,7 +910,7 @@
      "aisle": "015",
      "name": "[ 1 PACK ][ JP VER. ] ONE PIECE ONE PIECE THE DOMINANCE OF GOD [OP-18] BOOSTER PACK",
      "capacity": 18,
-     "qty": 18,
+     "qty": 17,
      "status": "Normal",
      "price": 130,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/181b716ec4a94c5c8d3f801bfd3adf28.png",
