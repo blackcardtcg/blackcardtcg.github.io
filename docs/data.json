@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T23:01:53.875Z",
+ "updatedAt": "2026-11-27T04:55:47.961Z",
  "machines": [
   {
    "id": "VCM350CKC20090001",
    "site": "เซ็นทรัล นครปฐม",
    "route": "อ.เมือง",
-   "updateTime": "11-27 07:01",
+   "updateTime": "11-27 12:54",
    "supplyTime": "11-24 19:59",
    "slots": [
     {
@@ -394,8 +394,8 @@
    "id": "VCM350CKC21050003",
    "site": "สยามดิสคัฟเวอรี่",
    "route": "ปทุมวัน",
-   "updateTime": "11-27 07:01",
-   "supplyTime": "11-22 19:09",
+   "updateTime": "11-27 12:55",
+   "supplyTime": "11-27 10:30",
    "slots": [
     {
      "aisle": "010",
@@ -698,7 +698,7 @@
      "cat": "YUGIOH"
     },
     {
-     "aisle": "040",
+     "aisle": "050",
      "name": "[ 1 BOX / 24 PACK ][JP VER.] ONE PIECE THE DOMINANCE OF GOD [OP-18]",
      "capacity": 4,
      "qty": 2,
@@ -708,17 +708,17 @@
      "cat": "ONE PIECE"
     },
     {
-     "aisle": "041",
+     "aisle": "051",
      "name": "[ 1 Box / 24 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - Adventure on KAMI’s Island- [OP-15]",
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 3900,
+     "price": 3990,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/ac06ee03c9fa4440ad3331c364fccfb0.jpg",
      "cat": "ONE PIECE"
     },
     {
-     "aisle": "042",
+     "aisle": "052",
      "name": "[ 1 BOX / 24 PACK ][JP VER.] ONE PIECE HEROINES EDITION VOL.2",
      "capacity": 4,
      "qty": 3,
@@ -728,74 +728,24 @@
      "cat": "ONE PIECE"
     },
     {
-     "aisle": "043",
+     "aisle": "053",
      "name": "[ 1 Box / 24 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK - The World's Strongest Warriors OP17",
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 4500,
+     "price": 5500,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/a3694360752146a68d4ce3e0787106ae.jpg",
      "cat": "ONE PIECE"
     },
     {
-     "aisle": "044",
+     "aisle": "054",
      "name": "[ 1 Box / 24 PACK ] [JP] ONE PIECE TCG - BOOSTER PACK -THE TIME OF BATTLE- [OP-16]",
      "capacity": 4,
      "qty": 4,
      "status": "Normal",
-     "price": 4000,
+     "price": 3790,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/cd720700f9404ce8b06f0f0cbe4fbb03.jpg",
      "cat": "ONE PIECE"
-    },
-    {
-     "aisle": "050",
-     "name": "[ 1 BOX ] [JP] YUGIOH! WORLD PREMIERE PACK 2026",
-     "capacity": 6,
-     "qty": 6,
-     "status": "Normal",
-     "price": 1050,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/ac1417a3662540d8b35d1c738bfd3f44.jpg",
-     "cat": "YUGIOH"
-    },
-    {
-     "aisle": "051",
-     "name": "[ 1 BOX ] [JP] YUGIOH! - UTILITY SELECTION",
-     "capacity": 6,
-     "qty": 6,
-     "status": "Normal",
-     "price": 1650,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/bcdc2234ae474e49b13c32127a27a1fb.jpg",
-     "cat": "YUGIOH"
-    },
-    {
-     "aisle": "052",
-     "name": "[ 1 BOX ] [JP] YUGIOH! - Limited Pack GX : Ra Yellow",
-     "capacity": 6,
-     "qty": 6,
-     "status": "Normal",
-     "price": 1200,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/02ab78a25a844229b0287f102f2974c6.jpg",
-     "cat": "YUGIOH"
-    },
-    {
-     "aisle": "053",
-     "name": "[ 1 BOX / 2 PACK + 1 DON! ][ENG VER.] ONE PIECE THE TIME OF BATTLE DOUBLE PACK SET 11",
-     "capacity": 6,
-     "qty": 6,
-     "status": "Normal",
-     "price": 1350,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/1f7a2972e1cf41c5b6a6512598ff9986.jpg",
-     "cat": "ONE PIECE"
-    },
-    {
-     "aisle": "054",
-     "name": "[ 1 Box / 15 PACK ][ ENG Ver.] AE YUGIOH! CREATION PACK 13 + BONUS 1 PACK",
-     "capacity": 6,
-     "qty": 6,
-     "status": "Normal",
-     "price": 1150,
-     "img": "https://www.worldwidevending-vms.com/upload/commodity/b1981fbc6f87459ca2e8119079cfff33.png",
-     "cat": "YUGIOH"
     },
     {
      "aisle": "060",
@@ -853,7 +803,7 @@
    "id": "VCM600CKC24120705",
    "site": "เดอะมอลล์ไลฟ์สโตร์ บางแค",
    "route": "บางแค",
-   "updateTime": "11-27 07:01",
+   "updateTime": "11-27 12:55",
    "supplyTime": "11-24 19:31",
    "slots": [
     {
@@ -1180,7 +1130,7 @@
      "aisle": "038",
      "name": "[ 1 PACK ] [TH] POKEMON เงามืดคุคาม Booster Pack",
      "capacity": 18,
-     "qty": 16,
+     "qty": 15,
      "status": "Normal",
      "price": 49,
      "img": "https://www.worldwidevending-vms.com/upload/commodity/e978d16ddba54b7e9c01690be4c910e2.png",
